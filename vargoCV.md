@@ -96,7 +96,7 @@ Co-taught with instructor from GSU course for graduate public health students
 >>*Understanding Place: The City*
 Bucknell University - Lewisburg, PA Sep 23, 2014
 
->>*Climate Adaptation through Design: Heat Mitigation and Mortality *
+>>*Climate Adaptation through Design: Heat Mitigation and Mortality*
 NSF Urban Climate Institute Research Coordination Network - Atlanta, GA   July 9, 2014	
 
 >>*The City and Environmental Health: The Case of Urban Climate*

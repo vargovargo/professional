@@ -1,11 +1,11 @@
 #Jason Vargo
    - Home
    314 Dunning St. Madison, WI 53704
-	jvargo [at] gmail [dot] com
+   jvargo [at] gmail [dot] com
     
    -  Work
    1027 Medical Sciences Center 1300 University Avenue Madison, WI 53706
-	javargo [at] wisc [dot] edu 
+   javargo [at] wisc [dot] edu 
 
 <a name="employment"></a>
 ##CURRENT EMPLOYMENT##

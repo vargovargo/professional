@@ -12,9 +12,9 @@
 >###Assistant Scientist	University of Wisconsin-Madison, August 2014 - present###
 *Nelson Institute for Environmental Studies*
 *Global Health Institute*
->###Postdoctoral Fellow	University of Wisconsin-Madison, October 2012 - August 2014###
+<!--- >###Postdoctoral Fellow	University of Wisconsin-Madison, October 2012 - August 2014###
 *Center for Sustainability and the Global Environment*
-*Global Health Institute*
+*Global Health Institute* -->
 
 <a name="education"></a>
 ##EDUCATION##

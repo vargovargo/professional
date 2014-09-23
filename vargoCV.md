@@ -93,7 +93,7 @@ Co-taught with instructor from GSU course for graduate public health students
 <a name="presentations"></a>
 ##PRESENTATIONS##
 >###Invited Talks###
->>*Understanding Place: The City*
+>>*[Understanding Place: The City](TheCity.md)*
 Bucknell University - Lewisburg, PA Sep 23, 2014
 
 >>*Climate Adaptation through Design: Heat Mitigation and Mortality*

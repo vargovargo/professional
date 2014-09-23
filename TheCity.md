@@ -5,17 +5,26 @@
 
 In presenting the city as a place with you today I want to cover three points that can guide our discussion to follow. 
 
-1. Cities within the environment: The connections between activities in cities and the natural systems within which they set. Can cities be supportive of ecological function?
+1. Cities __IN__ the environment: The connections between activities in cities and the natural systems within which they set. Can cities be supportive of ecological function?
 
-2. Cities as environment: The city as human habitat and as a key determinant of individual and community health as well as environmental impact. 
+2. Cities __AS__ environment: The city as human habitat and as a key determinant of individual and community health as well as environmental impact. 
 
-3. The City simultaneously holds a unique place in our individual and collective psyches that makes them ideal spatial and political units of action on the most pressing global problems we as humans face. 
+3. Cities and __OUR NATURE__: cities simultaneously hold a unique place in our individual and collective psyches that makes them ideal spatial and political units of action on the most pressing global problems we as humans face. 
 
 #1. The City in Environment#
-Though the phrase is synonymous with a bucolic rural life, “living off the land” is equally applicable to cities. A crucial difference is in scale and reach. Cities are critical for thinking about global sustainability because cities rely on resources well beyond their physical borders. Even within cities self-sufficient living (think of gardens fed by rain barrels in the backyards of houses covered by solar panels) is commonly mistaken for being sustainable, but in today’s globalized world virtually nothing at a local scale is self-sufficient (think of the building materials for the home, or the bikes the residents use to get around). An almost universal characteristic of urbanism is that the resources and materials on which we survive come from places other than where we live. To become meaningful, urban sustainability must address appropriate scales, and these nearly always extend beyond municipal boundaries (Hough 1994). Honest pursuit of sustainability must connect our propensity to live urban lives with impacts on the environments that support those lives. Moving forward there must be more obvious and explicit connections between cities and natural systems.
+###The City is a place connected to other places and people well outside its municipal, political, and physical boundaries.###
 
-### The urban advantage###
-Organization of people in cities can reduce per-capita energy consumption. Infrastructure investments, such as those for sewers and roads, are considerable expenses for municipalities. Density around these investments makes them operationally efficient and can increase tax revenues to make them affordable. Compact urban centers can help decrease per-capita GHG emissions. The average energy use among homes with increasing density -- single-family detached, single-family attached, and multi-family -- demonstrates these benefits. Suburban areas typically have larger homes and more cars. They require people to drive longer distances than residents of compact developments and urban centers. Moving a household from a less-dense suburban area to a more-dense urban area reduces energy use -- more than technological improvements can achieve. For the average household in the United States, moving from a traditional suburb to a green urban location could [reduce energy use by 75 percent](http://www.epa.gov/smartgrowth/location_efficiency_BTU.htm).
+Though the phrase is synonymous with a bucolic rural life, “living off the land” is equally applicable to cities. A crucial difference is in scale and reach. Cities are critical for thinking about global sustainability because cities rely on resources well beyond their physical borders. Even within cities self-sufficient living (think of gardens fed by rain barrels in the backyards of houses covered by solar panels) is commonly mistaken for being sustainable, but in today’s globalized world virtually nothing at a local scale is self-sufficient (think of the building materials for the home, or the bikes the residents use to get around). An almost universal characteristic of urbanism is that the resources and materials on which we survive come from places other than where we live. Conversely, the wastes produced within cities do not sit on our (literal) doorsteps in perpetuity. 
+
+To become meaningful, urban sustainability must address appropriate scales, and these nearly always extend beyond municipal boundaries ([Hough 1994](http://books.google.com/books?id=D7XK90pBeyYC&pg=PA40&lpg=PA40&dq=Design+with+city+nature:+An+overview+of+some+issues+the+ecological+city&source=bl&ots=vRVMfEbpe7&sig=-idlcsLsySXs7TzxYUjBiqhIr3Q&hl=en&sa=X&ei=3b4hVMHjA4GWgwTEq4HAAQ&ved=0CCgQ6AEwAQ#v=onepage&q=Design%20with%20city%20nature%3A%20An%20overview%20of%20some%20issues%20the%20ecological%20city&f=false)). Honest pursuit of sustainability must connect our propensity to live urban lives with impacts on the environments that support those lives. Moving forward there must be more obvious and explicit connections between cities and natural systems.
+
+Implicit in this should be a recognition -- or at least some testing of the aspects -- of the degree to which our spatial arrangement and/or urban-ness matter for environmental impact.  Cursory logic of the city and the urban often leads to false presumptions around the city's impact on ecological disturbance, resource consumption, and pollution. If cities are demonstrated to be crucial demand-side strategies the city becomes a crucial piece in achieving sustainable development promised by technological fixes. 
+
+### The Urban Advantage###
+
+Questions of the connections between urban organization (spatial) and environmental impacts help demonstrate the comparative per capita urban advantages. (* In a study we published in 2013 we found much of the growth in Atlanta to follow the suburban patter. And expected that if half of the suburban population growth during the study period had been added following a more urban pattern of development, over 77 square miles (about 50,000 acres) of forests may have been preserved the equivalent of 20 percent of the total forest lost during the decade.*)For example, which arrangements lessen impacts on energy use, water consumption, and waste production? And subsequently, how are these arrangements prioritized as energy policies? 
+
+In addition to land consumption, there is now evidence that some of the defining charateristics of places we call cities -- large populations and density -- can reduce per-capita energy consumption. Infrastructure investments, such as those for sewers and roads, are considerable expenses for municipalities. Density around these investments makes them operationally efficient and can increase tax revenues to make them affordable. Compact urban centers can help decrease per-capita GHG emissions. The average energy use among homes with increasing density -- single-family detached, single-family attached, and multi-family -- demonstrates these benefits. Suburban areas typically have larger homes and more cars. They require people to drive longer distances than residents of compact developments and urban centers. Moving a household from a less-dense suburban area to a more-dense urban area reduces energy use -- more than technological improvements can achieve. For the average household in the United States, moving from a traditional suburb to a green urban location could [reduce energy use by 75 percent](http://www.epa.gov/smartgrowth/location_efficiency_BTU.htm).
 
 The effect of urban structure on energy varies from place to place, but [residents of central cities generally use less energy and create lower GHG emissions than suburban residents](http://pubs.acs.org/doi/abs/10.1021/es4034364). Personal and household behaviors and actions have only a modest effect on these emissions.  Within large metropolitan areas in the United States, [household emissions are more closely associated with population density than they are with household size or income](http://pubs.acs.org/doi/abs/10.1021/es102221h). 
 
@@ -23,14 +32,34 @@ Encouraging urbanism to mitigate climate change can offer greater health co-bene
 
 #2. The City as Environment
 
+### The City is the place we spend most of our days and nights, and which shapes our behavior, exposures, and interactions. ###
+
 Examining the city as the environment we inhabit and interact with on a daily basis.  The urban environment shapes our behaviors in addition to characterizing our environmental exposures. Currently the connections between environment and health are poorly understood and not represented in health care.  The environment, and its impact on our behavior are largely responsible for our overall health, yet receive little attention and direct investment.  (*[environment and behavior account for more than 70% of health determinants but less than 10% of all health expenditures](http://www.nehi.net/writable/publication_files/file/boston_paradox_onepager_2008.pdf)*)
 
 Behavior represents the interaction of the person and the environment.
 
+The built environments that many of us call home tend to encourage resource consumption and unhealthy behaviors. However, as sites of rapid and intentional change, cities present incredible opportunities to improve lives and correct past mistakes. Stephen Kellert (2012) describes the situation in his book [Birthright](http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300176544)
+
+>*“ [...] four-fifths of the people living in the most developed nations, and for the first time in human history a majority of the world’s population, now reside in a city or suburb, generally the most environmentally transformed and degraded of all human environments. [...] Only a deliberate and knowing process of design and development, especially in our urban areas, can restore a world that nurtures and enriches the human body, mind, and spirit through its beneficial association with the natural world.”*
+
+Kellert’s description introduces distinctions in urban form (“cities and suburbs”). As diverse and varied habitats, existing cities help us understand how differences in urban patterns drive environmental change. Describing urban gradients is essential to demonstrating why certain forms of urbanism are less impactful than others. Also, such typologies are crucial for capturing the most important influences of urban habitats on human behavior.
+
+The ways in which place affects our behaviors and health is starting to be more closely examined. Urban design strategies can explicitly focus on prioritizing living systems as parts of urban function (Beatley 2011). Community design has been linked with physical and mental health outcomes; however, the need for context-specificity in design solutions is emphasized (Berger 2013). Debates over sprawling and compact development are happening locally, but have importance for regional and global sustainability. In cities, projects and individual behaviors understood at the level of the city block can scale-up to affect air- and watersheds. Thus, finding ways to relate the actions of neighborhoods and communities with the function of ecoregions the size of nations will be considerable challenge for sustainability science.
+
+<!--- from book chapter
+In many places, the design and construction of built environments has been generally adapted for automobiles, rather than people. Consider how the size of storefront signs corresponds to the width of adjacent roads and the speed of the traffic. Signs in older, traditional business districts, where there is regular pedestrian traffic, are much smaller than those set back from the road and read by drivers traveling at 55 miles per hour. Human-centered design accommodates life for people -- not cars. The resultant built environment is usually of higher quality and more enjoyable, and yields lower GHG emissions. 
+
+New York City has produced comprehensive design guidelines for increasing physical activity that include recommendations on constructing buildings, integrating physical activity into urban public spaces, [improving streets, and promoting sustainable development](www.centerforactivedesign.org/sidewalks). Guidelines and standards for building design aim to reduce energy use and create co-benefits related to physical activity, stormwater management, and urban heat. Recommendations for indoor spaces include designing attractive and accessible stairways to promote physical activity. Such guidelines and standards focus on design at a human-scale.
+
+The details of urban design are crucial to ensuring that changes in the urban environment promote health co-benefits.  Design of physical environments must consider density, proximity, and connectivity and make places safe and attractive in order to encourage social and other activities. A [high-quality physical environment that provides human-centered spaces for people](http://www.citiesforpeople.ca/en), away from noise, dirt, and traffic, can dramatically increase optional outdoor activities and, in turn, invite more social interaction. Details are important. For example, [sidewalks should be designed to facilitate active transport and pedestrian safety](www.centerforactivedesign.org/sidewalks). 
+
+There are many opportunities to integrate urban infrastructure with human-scale design. New York City has produced guidelines to promote high-performance (low-waste, energy-efficient) infrastructures, which also enhance the experience of pedestrians, while managing stormwater and reducing the urban heat island effect. [NYC's High Performance Infrastructure Guidelines provide a cross-section of a street with several best management practices. Nearly every design strategy potentially has multiple environmental, health, and economic benefits](www.nyc.gov/html/ddc/downloads/pdf/hpig.pdf).
+--->
 
 
 
-#3. Human Commitment to Cities
+
+#3. The City as Part of our Nature
 
 The human inclination toward cities is indisputable. It is one of the most reliable trends of the last 5,000 years (population growth being the only more reliable trend). We are, today an urban species, and the city is our habitat. 
 
@@ -54,7 +83,7 @@ Given these constraints, scholars at the [Marron Institute](http://marroninstitu
 
 2. 625 new cities of 10 million people *(500 for new urban residents, and 125 for people leaving existing cities looking to accomodate lower densities)*
 
-The degree of urbanism in existing and new cities 
+The degree of urbanism in existing and new cities ___ ...____ 
 
 With more than 7 billion people on the planet, cities – particularly high quality urbanism in compact population centers – present the only potential way to accommodate Earth’s population sustainably. Whether or not cities can exist without leading to catastrophic environmental degradation is an interesting question that deserves serious attention, thought, and creativity. Whether or not we should be moving to cities is not. The option of urbanism is a false choice that obstructs more useful thought on the topic. Global urbanization is not simply the product of many individual ‘decisions’ to move to cities.
 
@@ -62,7 +91,7 @@ Our long-term commitment to living in cities is inherent. Acknowledging this ove
 
 We must reconcile the fact that cities exist because of the natural world, while the existence of cities is degrading that natural world. This, at once, says cities are part of nature, and that nature is part of cities. A global urban future depends on developing truly symbiotic relationships between cities and natural environmental systems. There is a need for new theories of urbanization and settlement to incorporate connected, ‘natural’ environments and vice versa.
 
-#3. The City as Part of our Nature
+###Part of our Psyche
 
 So, cities appear to be part of our human nature and interestingly they would cease to exist without us.  The city is an emergent phenomenon of human social interaction. The city is a place that ceases to exist without us. Though we have city planners, few -- in not some of the most suspect -- cities were the idea a single person or even group of people. Famous city plans such as Burnham's Chicago, L'Enfant's DC, or Haussman's Paris help organize the city, not make it so in the first place. 
 

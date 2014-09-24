@@ -135,6 +135,8 @@ So while at the same time cities affect individual identity, urbanism (in one fo
 
 + 3.5 Billion - The number of urban residents on earth after 100 centuries of the practice
 
+Using the 2008 milestone (*50%*) to discuss global urbanization gives us a touchstone for where we, as a species, are on this trajectory, but does not provide any guidance about potential actions to change it. 
+
 		___TOKYO___
 
 + 5 Billion - the number of new urban residents expected in the next century (60M/yr  OR  1+M every week)
@@ -143,23 +145,17 @@ So while at the same time cities affect individual identity, urbanism (in one fo
 
 + Combined with this population growth there is a tendency toward decreasing density (about half)
 
-+ The amount of urbanization that took place between Mesopotamia and now will happen again by 2060
-
 		___COLOMBIA___
+
++ The amount of urbanization that took place between Mesopotamia and now will happen again by 2060
+	
+		___AJAY___	
 
 Whether or not cities can exist without leading to catastrophic environmental degradation is an interesting question that deserves serious attention, thought, and creativity. Whether or not we should be moving to cities is not. 
 
-		___AJAY___
+			___FAVELA___
 
-Our long-term commitment to living in cities is inherent. A fundamental aim of sustainability is to preserve the existence of our species; it is clear that we will need to embrace urbanism as a human quality to achieve that end.
-
-		___FAVELA___
-
-Indeed, the survival of an urban species will depend on how we live in cities and emphasizing the characteristics of cities that are most supportive of life. Using the 2008 milestone (*50%*) to discuss global urbanization gives us a touchstone for where we, as a species, are on this trajectory, but does not provide any guidance about potential actions to change it. A global urban future must move toward a richer and permanent relationship of urbanism to environmental sciences. The end result will be improved efforts toward global sustainability. 
-
-		___BLANK___
-
-We must reconcile the fact that cities exist because of the natural world, while the existence of cities is degrading that natural world. This, at once, says cities are part of nature, and that nature is part of cities. A global urban future depends on developing truly symbiotic relationships between cities and natural environmental systems. There is a need for new theories of urbanization and settlement to incorporate connected, ‘natural’ environments and vice versa.
+Our long-term commitment to living in cities is inherent. 
 
 		___EVOLUTION___
 
@@ -167,7 +163,11 @@ The human inclination toward cities is indisputable. It is one of the most relia
 
 		___VANCOUVER___
 
-Is this the central cause of energy overuse and exploitation or can it be one of the keys to reigning in global environmental change (or at least coping with it)?  We are faced with a challenge to resolve our __domesticated tendencies__ with resource and space limits of our planet. A fundamental aim of sustainability is to preserve the existence of our species; it is clear that we will need to embrace urbanism as a human quality to achieve that end. 
+Is this the central cause of energy overuse and exploitation or can it be one of the keys to reigning in global environmental change (or at least coping with it)?  We are faced with a challenge to resolve our __domesticated tendencies and terrestrial dependancies__. 
+
+A fundamental aim of sustainability is to preserve the existence of our species; it is clear that we will need to embrace urbanism as a human quality to achieve that end.
+
+- - -
 
 #Appendix: Definitions#
 *this comes largely from the Introduction to William Meyer's book "[The Environmental Advantages of Cities](http://mitpress.mit.edu/books/environmental-advantages-cities)"*

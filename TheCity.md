@@ -21,7 +21,7 @@ In presenting the city as a place with you today I want to cover three points th
 
 		___FARM___
 
-Though the phrase is synonymous with a bucolic rural life, “living off the land” is equally applicable to cities. A crucial difference is in scale and reach. Cities are critical for thinking about global sustainability because cities rely on resources well beyond their physical borders. Even within cities self-sufficient living (think of gardens fed by rain barrels in the backyards of houses covered by solar panels) is commonly mistaken for being sustainable, but in today’s globalized world virtually nothing at a local scale is self-sufficient (think of the building materials for the home, or the bikes the residents use to get around). 
+Though the phrase is synonymous with a bucolic rural life, “living off the land” is equally applicable to cities. A crucial difference is in scale and reach. Cities are critical for thinking about global environmental change because cities rely on resources well beyond their physical borders. Even within cities self-sufficient living (think of gardens fed by rain barrels in the backyards of houses covered by solar panels) is commonly mistaken for being sustainable, but in today’s globalized world virtually nothing at a local scale is self-sufficient (think of the building materials for the home, or the bikes the residents use to get around). 
 
 		___PIPELINE___
 
@@ -43,21 +43,23 @@ Cursory logic of the city can lead to false presumptions around the city's impac
 
 ### The Urban Advantage###
 
-_The arrangement of people into more urban places can be effective strategies to cap environment impacts._
+_The arrangement of people into more urban places can be effective strategies to cap environment impacts._ 
 
 		___JEM___
 
-Questions of the connections between urban organization (spatial) and environmental impacts help demonstrate the comparative per capita urban advantages. (* In a study we published in 2013 we found much of the growth in Atlanta to follow the suburban patter. And expected that if half of the suburban population growth during the study period had been added following a more urban pattern of development, over 77 square miles (about 50,000 acres) of forests may have been preserved the equivalent of 20 percent of the total forest lost during the decade.*) For example, which arrangements lessen impacts on energy use, water consumption, and waste production? And subsequently, how are these arrangements prioritized as energy policies? 
+Questions of the connections between urban organization (spatial) and environmental impacts help demonstrate the comparative per capita urban advantages. (* In a study we published in 2013 we found much of the growth in Atlanta to follow the suburban patter. And expected that if half of the suburban population growth during the study period had been added following a more urban pattern of development, over 77 square miles (about 50,000 acres) of forests may have been preserved the equivalent of 20 percent of the total forest lost during the decade.*) 
 
 		___LA___
 
-In addition to land consumption, there is now evidence that urban-ness reduces per-capita energy consumption. Compact urban centers can help decrease per-capita GHG emissions. Less urban areas typically have larger homes and more cars. The average energy use among homes with increasing density -- single-family detached, single-family attached, and multi-family -- demonstrates these benefits.  They require people to drive longer distances than residents of compact developments and urban centers. 
+_Which arrangements lessen impacts on energy use, water consumption, and waste production? And subsequently, how are these arrangements prioritized as energy policies? _
+
+In addition to land consumption, there is now evidence that urban-ness reduces per-capita energy consumption. Compact urban centers can help decrease per-capita GHG emissions. Less urban areas typically have larger homes and more cars. They require people to drive longer distances than residents of compact developments and urban centers. 
 
 		___GRAPH___
 
 Moving a household from a less-dense suburban area to a more-dense urban area reduces energy use -- more than technological improvements can achieve. For the average household in the United States, moving from a traditional suburb to an urban location (with technological improvements) could [reduce energy use by 75 percent](http://www.epa.gov/smartgrowth/location_efficiency_BTU.htm).
 
-Infrastructure investments, such as those for sewers and roads, are considerable expenses for municipalities. Density around these investments makes them operationally efficient and can increase tax revenues to make them affordable. Cities are crucial demand-side strategies for ensuring that technological solutions (on the supply side) work. 
+Cities are crucial demand-side strategies for ensuring that technological solutions (on the supply side) work. 
 
 		___BLANK___ 
 

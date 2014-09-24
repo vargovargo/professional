@@ -169,8 +169,6 @@ The human inclination toward cities is indisputable. It is one of the most relia
 
 Is this the central cause of energy overuse and exploitation or can it be one of the keys to reigning in global environmental change (or at least coping with it)?  We are faced with a challenge to resolve our __domesticated tendencies__ with resource and space limits of our planet. A fundamental aim of sustainability is to preserve the existence of our species; it is clear that we will need to embrace urbanism as a human quality to achieve that end. 
 
-
-
 #Appendix: Definitions#
 *this comes largely from the Introduction to William Meyer's book "[The Environmental Advantages of Cities](http://mitpress.mit.edu/books/environmental-advantages-cities)"*
 
@@ -246,3 +244,4 @@ When really we would do much better to think in terms of degrees of qualities
 Urban-ness should be viewed as a suite of technologies that has changed over time and place. The best parts of this suite can be adopted widely and adapted to fit different contexts. 
 
 Independent of these definitions of urban, the word carries embedded meanings that are culturally understood and which change over time. The meaning for a particular people or region will vary depending on the stage of development, the racial structure, and city history in the place. In some cases the urban advantage is dominant. This is common for many cities outside of the US, where central downtown areas exhibit the higest degree of urbanism and have high conentrations of wealth. In the US, more urban places were historically portrayed as properous, sometimes featuring billowing smokestacks on postcards marketed to tourists. Eventually the *urban penalty* of factory pollution and/or crowded tenaments changed the reputation of urban America. In many American cities, racial associaitons of denser downtowns and fringe suburbs helped fuel large-scale suburbanization and defined perceptions of 'urban' areas. 
+

@@ -1,7 +1,8 @@
 ##View some slides from the talk and comments [here](https://vreadings.wordpress.com/2014/09/23/city/)
+
 ## A talk given at Bucknell on Sep 23, 2014 as part of the Understanding Place Series, hosted by the [Place Studies Program](http://www.bucknell.edu/psi)
 
-___TITLE___
+		___TITLE___
 
 #Outline#
 
@@ -13,52 +14,52 @@ In presenting the city as a place with you today I want to cover three points th
 
 3. Cities and __OUR NATURE__: cities simultaneously hold a unique place in our individual and collective psyches that makes them ideal spatial and political units of action on the most pressing global problems we as humans face. 
 
-___BLANK___
+		___BLANK___
 
 #1. The City in Environment#
 ###The City is a place connected to other places and people well outside its municipal, political, and physical boundaries.###
 
-___FARM___
+		___FARM___
 
 Though the phrase is synonymous with a bucolic rural life, “living off the land” is equally applicable to cities. A crucial difference is in scale and reach. Cities are critical for thinking about global sustainability because cities rely on resources well beyond their physical borders. Even within cities self-sufficient living (think of gardens fed by rain barrels in the backyards of houses covered by solar panels) is commonly mistaken for being sustainable, but in today’s globalized world virtually nothing at a local scale is self-sufficient (think of the building materials for the home, or the bikes the residents use to get around). 
 
-___PIPELINE___
+		___PIPELINE___
 
 An almost universal characteristic of urbanism is that the resources and materials on which we survive come from places other than where we live. 
 
-___TIRES___
+		___TIRES___
 
 Conversely, the wastes produced within cities do not sit on our (literal) doorsteps in perpetuity.  
 
-___INVERSION___
+		___INVERSION___
 
 Impacts of cities extend to the crop selection on argicultural landscapes, and the quality of our water and air sheds.
 
-___ATLANTA___
+		___ATLANTA___
 
 Cursory logic of the city can lead to false presumptions around the city's impact on ecological disturbance, resource consumption, and pollution. Part of this recognizing these connections will require describing the influence urban-ness on environmental impact. 
 
-___SPRAWL___
+		___SPRAWL___
 
 ### The Urban Advantage###
 
 _The arrangement of people into more urban places can be effective strategies to cap environment impacts._
 
-___JEM___
+		___JEM___
 
 Questions of the connections between urban organization (spatial) and environmental impacts help demonstrate the comparative per capita urban advantages. (* In a study we published in 2013 we found much of the growth in Atlanta to follow the suburban patter. And expected that if half of the suburban population growth during the study period had been added following a more urban pattern of development, over 77 square miles (about 50,000 acres) of forests may have been preserved the equivalent of 20 percent of the total forest lost during the decade.*) For example, which arrangements lessen impacts on energy use, water consumption, and waste production? And subsequently, how are these arrangements prioritized as energy policies? 
 
-___LA___
+		___LA___
 
 In addition to land consumption, there is now evidence that urban-ness reduces per-capita energy consumption. Compact urban centers can help decrease per-capita GHG emissions. Less urban areas typically have larger homes and more cars. The average energy use among homes with increasing density -- single-family detached, single-family attached, and multi-family -- demonstrates these benefits.  They require people to drive longer distances than residents of compact developments and urban centers. 
 
-___GRAPH___
+		___GRAPH___
 
 Moving a household from a less-dense suburban area to a more-dense urban area reduces energy use -- more than technological improvements can achieve. For the average household in the United States, moving from a traditional suburb to an urban location (with technological improvements) could [reduce energy use by 75 percent](http://www.epa.gov/smartgrowth/location_efficiency_BTU.htm).
 
 Infrastructure investments, such as those for sewers and roads, are considerable expenses for municipalities. Density around these investments makes them operationally efficient and can increase tax revenues to make them affordable. Cities are crucial demand-side strategies for ensuring that technological solutions (on the supply side) work. 
 
-___BLANK___ 
+		___BLANK___ 
 
 #2. The City as Environment
 
@@ -70,97 +71,104 @@ This involves examining the city as the environment we inhabit and interact with
 
 The built environment can limit or provide opportunities for a healthy and social life.
 
-___BOGOTA___
+		___BOGOTA___
 
 Active transportation is one aspect of daily behavior I have worked on a lot. Bogota, Colombia has been lauded for its investment in transportation modes like transit, walking and cycling. Building transportation infrastructure for people without cars is a safety issue, a health issue and an equity issue for cities. 
 
-___AHA___
+		___AHA___
 
 Policy plays an important role in shaping the places we live. The American Housing Authorities revised plans for subdivisions limited connectivity, which required driving, and funneled cars to high volume, high speed, high danger roads. 
 
-___DOLORES___
+		___DOLORES___
 
 Contact with nature, encouraging human interactions, and limiting exposures to pollution are other health concerns that the built environment can begin to address. 
 
-___CLOVER___
+		___CLOVER___
 
-Particularly in the US, the built environments that many of us call home tend to encourage resource consumption and unhealthy behaviors. However, as sites of rapid and intentional change, cities present incredible opportunities to improve lives and correct past mistakes.
+Decisions of the built environment can be lasting and dramatic. They can severely restrict activities that we know are good for individuals and communities. In some cases as with highway systems, these decisions have been used to drive communities apart as part of larger legacies of racial injustice. 
 
-___MCDONALDS___
+	___BLANK___
+
+First, as was discussed, the built environment can limit or present the choices for wellbeing. Secondly, the built environment should behigh quality and appealing enough so that it encourages the healthy activities. 
+
+		___MCDONALDS___
 
 In many places, the design and construction of built environments has been generally adapted for automobiles, rather than people. This is apparent in the size of storefront signs corresponds to the width of adjacent roads and the speed of the traffic. Signs in older, traditional business districts, where there is regular pedestrian traffic, are much smaller than those set back from the road and read by drivers traveling at 55 miles per hour. Human-centered design accommodates life for people -- not cars. The resultant built environment is usually of higher quality and more enjoyable, and yields lower GHG emissions. 
 
-___RACINE___
+		___RACINE___
 
-The details of urban design are crucial to ensuring that changes in the urban environment promote health co-benefits.  Design of physical environments must consider density, proximity, and connectivity and make places safe and attractive in order to encourage social and other activities. A [high-quality physical environment that provides human-centered spaces for people](http://www.citiesforpeople.ca/en), away from noise, dirt, and traffic, can dramatically increase optional outdoor activities and, in turn, invite more social interaction. Details are important. For example, [sidewalks should be designed to facilitate active transport and pedestrian safety](www.centerforactivedesign.org/sidewalks). 
+The details of urban design are crucial to ensuring that changes in the urban environment promote health co-benefits.  Design of physical environments must consider density, proximity, and connectivity and make places safe and attractive in order to encourage social and other activities. A [high-quality physical environment that provides human-centered spaces for people](http://www.citiesforpeople.ca/en), away from noise, dirt, and traffic, can dramatically increase optional outdoor activities and, in turn, invite more social interaction. Details are important. 
 
-The ways in which place affects our behaviors and health is starting to be more closely examined. Urban design strategies can explicitly focus on prioritizing living systems as parts of urban function (Beatley 2011). Community design has been linked with physical and mental health outcomes; however, the need for context-specificity in design solutions is emphasized (Berger 2013). Debates over sprawling and compact development are happening locally, but have importance for regional and global sustainability. In cities, projects and individual behaviors understood at the level of the city block can scale-up to affect air- and watersheds. Thus, finding ways to relate the actions of neighborhoods and communities with the function of ecoregions the size of nations will be considerable challenge for sustainability science.
+		___BLANK___
 
-
+Particularly in the US, the built environments that many of us call home tend to encourage resource consumption and unhealthy behaviors. However, as sites of rapid and intentional change, __cities__ present incredible opportunities to improve lives and correct past mistakes.
 
 #3. The City as Part of our Nature
 
-___EVOLUTION___
+		___LIGHTS___
 
-The human inclination toward cities is indisputable. It is one of the most reliable trends of the last 5,000 years (population growth being the only more reliable trend). We are, today an urban species, and the city is our habitat. 
+Interestingly they would cease to exist without us.  The city is an emergent phenomenon of human social interaction.  
+
+###Part of our Psyche
+
+		___CHICAGO___
+
+Though we have city planners, few -- in not some of the most suspect -- cities were the idea a single person or even group of people. Famous city plans such as Burnham's Chicago, L'Enfant's DC, or Haussman's Paris help organize the city, not make it so in the first place. 
+
+		___ATL___
+
+As a place -- the city is where most of us live. However, the local character and associations we have with the city where we live help define who we are and expand the boundaries of self.  The city is a place and is made up of places that are embraced and experienced in intimate ways. We personalize the city as our own place (picking our favorite spots of escape or finding a local haunt and making it our own). 
+
+		___WEIRD___
+
+We take on the persona of our cities and see ourselves as informing it (Keep Austin Weird). And there is no limit to the number top (or bottom) 25 lists we'll click on to see how our city stacks up against others. The emotional associations people have with their city(s), could be important for stimulating local and sustained action to improve the places we live. This is something obvious in campaigns to support local businesses. 
+
+		___BLANK___
+
+So while at the same time cities affect individual identity, urbanism (in one form or another) is shared by more people than at any point in history, and this statement will be true to a new degree by the time we leave this room today. 
 
 ###Future Growth###
 
-___OLDNYC___
+		___OLDNYC___
 
 + 10,000 - the number of years ago we began organizing into cities. 
 
 + 3.5 Billion - The number of urban residents on earth after 100 centuries of the practice
 
-___TOKYO___
+		___TOKYO___
 
 + 5 Billion - the number of new urban residents expected in the next century (60M/yr  OR  1+M every week)
 
-___MENDOZA___
+		___MENDOZA___
 
 + Combined with this population growth there is a tendency toward decreasing density (about half)
 
 + The amount of urbanization that took place between Mesopotamia and now will happen again by 2060
 
-Given these constraints, scholars at the [Marron Institute](http://marroninstitute.nyu.edu/) in NYC ([Brandon Fuller and Paul Romer](http://marroninstitute.nyu.edu/content/working-papers/urbanization-as-opportunity1)) outline two extreme paths for accomplishing the required urbanization:
-
-1. All new urban growth is absorbed by existing cities, resulting in a 3 fold increase in population and a 6 fold increase in land area
-
-2. 625 new cities of 10 million people *(500 for new urban residents, and 125 for people leaving existing cities looking to accomodate lower densities)*
-
-___COLOMBIA___
+		___COLOMBIA___
 
 Whether or not cities can exist without leading to catastrophic environmental degradation is an interesting question that deserves serious attention, thought, and creativity. Whether or not we should be moving to cities is not. 
 
-___AJAY___
+		___AJAY___
 
 Our long-term commitment to living in cities is inherent. A fundamental aim of sustainability is to preserve the existence of our species; it is clear that we will need to embrace urbanism as a human quality to achieve that end.
 
-___FAVELA___
+		___FAVELA___
 
 Indeed, the survival of an urban species will depend on how we live in cities and emphasizing the characteristics of cities that are most supportive of life. Using the 2008 milestone (*50%*) to discuss global urbanization gives us a touchstone for where we, as a species, are on this trajectory, but does not provide any guidance about potential actions to change it. A global urban future must move toward a richer and permanent relationship of urbanism to environmental sciences. The end result will be improved efforts toward global sustainability. 
 
-___BLANK___
+		___BLANK___
 
 We must reconcile the fact that cities exist because of the natural world, while the existence of cities is degrading that natural world. This, at once, says cities are part of nature, and that nature is part of cities. A global urban future depends on developing truly symbiotic relationships between cities and natural environmental systems. There is a need for new theories of urbanization and settlement to incorporate connected, ‘natural’ environments and vice versa.
 
-###Part of our Psyche
+		___EVOLUTION___
 
-___CHICAGO___
+The human inclination toward cities is indisputable. It is one of the most reliable trends of the last 5,000 years (population growth being the only more reliable trend). We are, today an urban species, and the city is our habitat. 
 
-So, cities appear to be part of our human nature and interestingly they would cease to exist without us.  The city is an emergent phenomenon of human social interaction.  Though we have city planners, few -- in not some of the most suspect -- cities were the idea a single person or even group of people. Famous city plans such as Burnham's Chicago, L'Enfant's DC, or Haussman's Paris help organize the city, not make it so in the first place. 
+		___VANCOUVER___
 
-___ATL___
+Is this the central cause of energy overuse and exploitation or can it be one of the keys to reigning in global environmental change (or at least coping with it)?  We are faced with a challenge to resolve our __domesticated tendencies__ with resource and space limits of our planet. A fundamental aim of sustainability is to preserve the existence of our species; it is clear that we will need to embrace urbanism as a human quality to achieve that end. 
 
-As a place -- the city is where most of us live. However, the local character and associations we have with the city where we live help define who we are and expand the boundaries of self.  The city is a place and is made up of places that are embraced and experienced in intimate ways. We personalize the city as our own place (picking our favorite spots of escape or finding a local haunt and making it our own). 
-
-___WEIRD___
-
-We take on the persona of our cities and see ourselves as informing it (Keep Austin Weird). And there is no limit to the number top (or bottom) 25 lists we'll click on to see how our city stacks up against others. The emotional associations people have with their city(s), could be important for stimulating local and sustained action to improve the places we live. This is something obvious in campaigns to support local businesses. 
-
-___VANCOUVER___
-
-So while at the same time cities affect individual identity, urbanism (in one form or another) is shared by more people than at any point in history, and this statement will be true to a new degree by the time we leave this room today. Is this the central cause of energy overuse and exploitation or can it be one of the keys to reigning in global environmental change (or at least coping with it)?  We are faced with a challenge to resolve our __domesticated tendencies__ with resource and space limits of our planet. A fundamental aim of sustainability is to preserve the existence of our species; it is clear that we will need to embrace urbanism as a human quality to achieve that end. 
 
 
 #Appendix: Definitions#
@@ -238,4 +246,3 @@ When really we would do much better to think in terms of degrees of qualities
 Urban-ness should be viewed as a suite of technologies that has changed over time and place. The best parts of this suite can be adopted widely and adapted to fit different contexts. 
 
 Independent of these definitions of urban, the word carries embedded meanings that are culturally understood and which change over time. The meaning for a particular people or region will vary depending on the stage of development, the racial structure, and city history in the place. In some cases the urban advantage is dominant. This is common for many cities outside of the US, where central downtown areas exhibit the higest degree of urbanism and have high conentrations of wealth. In the US, more urban places were historically portrayed as properous, sometimes featuring billowing smokestacks on postcards marketed to tourists. Eventually the *urban penalty* of factory pollution and/or crowded tenaments changed the reputation of urban America. In many American cities, racial associaitons of denser downtowns and fringe suburbs helped fuel large-scale suburbanization and defined perceptions of 'urban' areas. 
-

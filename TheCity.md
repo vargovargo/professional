@@ -1,3 +1,5 @@
+##View some slides from the talk and comments [here](https://vreadings.wordpress.com/2014/09/23/city/)
+
 ## A talk given at Bucknell on Sep 23, 2014 as part of the Understanding Place Series, hosted by the [Place Studies Program](http://www.bucknell.edu/psi)
 
 

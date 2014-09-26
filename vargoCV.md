@@ -58,7 +58,7 @@ Co-taught with instructor from GSU course for graduate public health students
 
 >>Habeeb, Dana, **Jason Vargo**, and Brian Stone. “Rising Heat Wave Trends in Large US Cities.” *Natural Hazards* (in review).
 
->>Stone, Brian,** Jason Vargo**, Peng Liu, Dana Habeeb, Anthony DeLucia, Marcus Trail, Yongtao Hu, and Armistead Russell. “Avoided heat-related mortality through climate adaptation strategies in three US cities.” *PLoS ONE 9*(6), e100852. [doi:10.1371/journal.pone.0100852](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100852)
+>>Stone, Brian,**Jason Vargo**, Peng Liu, Dana Habeeb, Anthony DeLucia, Marcus Trail, Yongtao Hu, and Armistead Russell. “Avoided heat-related mortality through climate adaptation strategies in three US cities.” *PLoS ONE 9*(6), e100852. [doi:10.1371/journal.pone.0100852](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100852)
 
 >>Stone, Brian, **Jason Vargo**, Peng Liu, Yongtao Hu, and Armistead Russell. “Climate change adaptation through urban heat management in Atlanta, Georgia.” *Environmental Science and Technology* 47:14, (2013): 7780-7786. [doi: 10.1021/es304352e](http://pubs.acs.org/doi/abs/10.1021/es304352e)
 

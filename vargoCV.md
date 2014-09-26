@@ -34,7 +34,7 @@
 >>CP 6213 - Urban Environmental Planning
 Lecture and lab course for planning / civil engineering graduate students
 
->>CP 8882 / EH 584 - The Built Environment and Public Health
+>>[CP 8882 / EH 584 - The Built Environment and Public Health](http://beandhealth.wordpress.com/)
 A survey course for graduate planning and public health students
 Co-taught with instructor representing Emory University
 
@@ -94,7 +94,7 @@ Co-taught with instructor from GSU course for graduate public health students
 ##PRESENTATIONS##
 >###Invited Talks###
 >>*[Understanding Place: The City](TheCity.md)*
-Bucknell University - Lewisburg, PA Sep 23, 2014
+Bucknell University - Lewisburg, PA Sep 24, 2014
 
 >>*Climate Adaptation through Design: Heat Mitigation and Mortality*
 NSF Urban Climate Institute Research Coordination Network - Atlanta, GA   July 9, 2014	
@@ -199,7 +199,7 @@ Role: research scientist
 >>*Weather Risk and Sustainable Urban Infrastructure*
 National Science Foundation Sustainability Research Network 
 PI: Tracey Holloway
-The study will explore unanswered questions pertaining to the science of urban sustainability, primarily be assessing the adaptive capacity of urban physical and administrative infrasture to cope with increasing extreme events resulting from global climate change. 
+The study will explore unanswered questions pertaining to the science of urban sustainability, primarily be assessing the adaptive capacity of urban physical and administrative infrastructure to cope with increasing extreme events resulting from global climate change. 
 Role: research scientist
 
 >###In Preparation###

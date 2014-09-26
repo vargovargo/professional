@@ -9,7 +9,7 @@
 
 <a name="employment"></a>
 ##CURRENT EMPLOYMENT##
->###Assistant Scientist	University of Wisconsin-Madison, August 2014 - present###
+>###Assistant Scientist	-- University of Wisconsin-Madison, August 2014 - present###
 *Nelson Institute for Environmental Studies*
 *Global Health Institute*
 <!--- >###Postdoctoral Fellow	University of Wisconsin-Madison, October 2012 - August 2014###
@@ -31,20 +31,21 @@
 ##TEACHING EXPERIENCE##
 >###Georgia Institute of Technology, School of City & Regional Planning, 2009-2011
 *Instructor*
->>CP 6213 - Urban Environmental Planning
+>>__CP 6213 - Urban Environmental Planning__
 Lecture and lab course for planning / civil engineering graduate students
 
->>[CP 8882 / EH 584 - The Built Environment and Public Health](http://beandhealth.wordpress.com/)
+>>[__CP 8882 / EH 584 - The Built Environment and Public Health__](http://beandhealth.wordpress.com/)
 A survey course for graduate planning and public health students
 Co-taught with instructor representing Emory University
 
 >*Teaching Assistant*
->>CP 6213 - Urban Environmental Planning
->>CP 6331 - Land Use and Transportation Interactions
+>>__CP 6213 - Urban Environmental Planning__
+
+>>__CP 6331 - Land Use and Transportation Interactions__
 
 >###Georgia State University, Institute of Public Health, Spring 2011
 *Instructor*
->>PH  7340 - The Built Environment and Health
+>>__PH  7340 - The Built Environment and Health__
 Co-taught with instructor from GSU course for graduate public health students
 
 <a name="publications"></a>

@@ -1,1 +1,4 @@
-#this is the new text for the TED talk
+## A talk given at Madiswon TEDx event November 1, 2014
+
+
+

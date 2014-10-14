@@ -1,7 +1,9 @@
 
-
-
 ## A talk given at the [TEDx UWMadison](http://tedxuwmadison.com/) event November 1, 2014#
+
+#Intro - urbanism as our nature
+
+##Domesticated Animal
 
 What was the first domesticated animal? Dog? Goat?
 
@@ -13,7 +15,18 @@ Charles Darwin even suggested that humans have been showing signs of domesticati
 --->
 
 
-Today I want to talk about our urban nature as humans,  I want to take us through some of that history in order to help us understand a bit more about what our future could be and the role cities could play in it. 
+Today I want to talk about our urban nature as humans,  I want to take us through some of that history in order to help us understand a bit more about what our future could be and the role cities could play in it.
+
+
+##Urban History##
+
+Our urban history has been punctuated by two reoccuring trends. 
+> First, the number of us living in ciites and urban areas has been increasing steadily. It is one of the most reliable trends of the last 10,000 years and matches up well with population growth in general. Today there are thousands of cities and we have the largest cities that we've ever seen in history. ___Shanghai___ claims more than 25 million people. 
+
+> Second, this urban path has been coupled with revolutionary innovations. Agriculture. Government. Written language. Science. Art. For as long as we've been settling in cities they've been means of helping us create new ideas -- in many cases ideas that we still benefit from today. 
+
+So if we look at urban history we see these trends. The first settlements were coincident to the development of agriculture. Then we see evidence of cities like Jeruselem and eventually the development of administrative units and more investment in staying and protecting a place (with the invention of the walled city). Specialization of tasks in the cities helps develop food surpluses and we see the first evidence of writing (necessary for keeping records). Next cities appear in Crete and China. The cities of Rome and Alexandria get thier starts. Moving to BC, Rome reaches its prominance and serves as a world and historic touchstone for culture, art, technology, wealth, and power. 
+
 
 
 If you just moved from this to this, have you urbanized?

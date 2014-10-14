@@ -1,5 +1,5 @@
 
-## A talk given at the [TEDx UWMadison](http://tedxuwmadison.com/) event November 1, 2014#
+## A talk given at the [TEDx UWMadison](http://www.ted.com/tedx/events/12377) event November 1, 2014#
 
 #Intro - urbanism as our nature
 
@@ -25,7 +25,17 @@ Our urban history has been punctuated by two reoccuring trends.
 
 > Second, this urban path has been coupled with revolutionary innovations. Agriculture. Government. Written language. Science. Art. For as long as we've been settling in cities they've been means of helping us create new ideas -- in many cases ideas that we still benefit from today. 
 
-So if we look at urban history we see these trends. The first settlements were coincident to the development of agriculture. Then we see evidence of cities like Jeruselem and eventually the development of administrative units and more investment in staying and protecting a place (with the invention of the walled city). Specialization of tasks in the cities helps develop food surpluses and we see the first evidence of writing (necessary for keeping records). Next cities appear in Crete and China. The cities of Rome and Alexandria get thier starts. Moving to BC, Rome reaches its prominance and serves as a world and historic touchstone for culture, art, technology, wealth, and power. 
+So if we look at urban history we see these trends. The first settlements were coincident to the development of agriculture. Then we see evidence of cities like Jeruselem and eventually the development of administrative units and more investment in staying and protecting a place (with the invention of the walled city). Specialization of tasks in the cities helps develop food surpluses and we see the first evidence of writing (necessary for keeping records). Next cities appear in Crete and China. Regular trade is established between cities. The cities of Rome and Alexandria get thier starts. Moving to BC, Rome reaches its prominance and serves as a world and historic touchstone for culture, art, technology, wealth, and power. 
+
+As we come into the modern age, we begin to see cities and city form we're more familiar with. The modern global hubs of trade and finance emerge. With the the industrial revolutions and mechanization of all manner of task. 
+
+The last 100 centuries have brought us to this point where now approximately 3.5 Billion people (half the planet) live in cities.
+
+In the next century, we're expected to see another 5 billion urban residents. All of the urban development undertaken from Mesopotamia til now, will be duplicated in the next 50 years. 
+
+So why, in this time of unprecedented movement to cities, would I think we need more of it?
+
+
 
 
 

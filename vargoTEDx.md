@@ -1,39 +1,70 @@
 
-## A talk given at the [TEDx UWMadison](http://www.ted.com/tedx/events/12377) event November 1, 2014#
+### A talk given at the [TEDx UWMadison](http://www.ted.com/tedx/events/12377) event November 1, 2014###
 
-#Intro - urbanism as our nature
-
-##Domesticated Animal
+#Our Urban Nature#
 
 What was the first domesticated animal? Dog? Goat?
 
-Us. 
+When we change our frame or reference we can begin to think of ourselves as the answer to that question. I've often heard the eveolutionary leaps made in our brians that set us apart. Our ability to imagine, vizualize, simulate events and circumstances that have not yet occured. This allows us to be empathic, but also leads us to think about and plan for the future. 
 
-Charles Darwin even suggested that humans have been showing signs of domestication for a long time. He described the retnetion of useless organs like our extrinsic ear muscles (or appendices). Others have described changes in body type and stature; citing the effects of the built environment. Surely the move to settlements instituted some dramatic social developments in our species' history. 
+>Charles Darwin even suggested that humans have been showing signs of domestication for a long time. He described the retnetion of useless organs like our extrinsic ear muscles (or appendices). Others have described changes in body type and stature; citing the effects of the built environment. Surely the move to settlements instituted some dramatic social developments in our species' history. 
 <!---human domestication http://www.jstor.org/stable/10.1086/368119 
 "For the human, the combination of adoption of a built environment, change in diet consistency, and lowered mobility brought about morphological changes similar to those seen in certain domestic animals."
 --->
 
+##Divinci's Man##
 
-Today I want to talk about our urban nature as humans,  I want to take us through some of that history in order to help us understand a bit more about what our future could be and the role cities could play in it.
+At some point when we envisioned the future, we began to stay put. We settled in places, often with other people and we began to think more strategically about how best to use the resources of the place and people where we were. 
 
 
-##Urban History##
-
-Our urban history has been punctuated by two reoccuring trends. 
+Our urban history has been punctuated by two persistant trends. 
 > First, the number of us living in ciites and urban areas has been increasing steadily. It is one of the most reliable trends of the last 10,000 years and matches up well with population growth in general. Today there are thousands of cities and we have the largest cities that we've ever seen in history. ___Shanghai___ claims more than 25 million people. 
 
 > Second, this urban path has been coupled with revolutionary innovations. Agriculture. Government. Written language. Science. Art. For as long as we've been settling in cities they've been means of helping us create new ideas -- in many cases ideas that we still benefit from today. 
 
-So if we look at urban history we see these trends. The first settlements were coincident to the development of agriculture. Then we see evidence of cities like Jeruselem and eventually the development of administrative units and more investment in staying and protecting a place (with the invention of the walled city). Specialization of tasks in the cities helps develop food surpluses and we see the first evidence of writing (necessary for keeping records). Next cities appear in Crete and China. Regular trade is established between cities. The cities of Rome and Alexandria get thier starts. Moving to BC, Rome reaches its prominance and serves as a world and historic touchstone for culture, art, technology, wealth, and power. 
+##Urban History##
 
-As we come into the modern age, we begin to see cities and city form we're more familiar with. The modern global hubs of trade and finance emerge. With the the industrial revolutions and mechanization of all manner of task. 
+Let's look at some of that history in order to help us understand a bit more about what our future could be and the role cities could play in it.
 
-The last 100 centuries have brought us to this point where now approximately 3.5 Billion people (half the planet) live in cities.
+The first settlements were coincident to the development of agriculture and livestock. Then we see evidence of cities like Jericho and eventually the development of administrative units and more investment in staying and protecting a place (with the invention of the walled city). Specialization of tasks in the cities helps develop food surpluses and we see the first evidence of writing (necessary for keeping records). Next cities appear in Crete and China. Regular trade is established between cities. The cities of Rome and Alexandria get thier starts. Moving to BC, Rome reaches its prominance and serves as a world and historic touchstone for culture, art, technology, wealth, and power. 
 
-In the next century, we're expected to see another 5 billion urban residents. All of the urban development undertaken from Mesopotamia til now, will be duplicated in the next 50 years. 
+As we come into the modern age, we begin to see cities and city form we're more familiar with. The modern global hubs of trade and finance emerge. With the the industrial revolutions and mechanization of all manner of tasks. 
 
-So why, in this time of unprecedented movement to cities, would I think we need more of it?
+And we arrive at the point wehere we find ourselves today. The last 100 centuries have brought us to this point where now approximately 3.5 Billion people (half the planet) live in cities. And in the next century, we're expected to see another 5 billion urban residents. All of the urban development undertaken from Mesopotamia til now, will be duplicated in the next 50 years. 
+
+
+
+
+So why, in this time of unprecedented movement to cities, would I be standing up here telling you we need more of them? 
+
+Because settlments; towns; cities; urbanism is our nature as humans.  
+
+
+
+The form and function of our cities has evolved over time as well. Lewis Mumford described this evolution as embodying 
+
+>_"a tendency to loosen the bonds that connect [the city's] inhabitants with nature and to transform, eliminate, or replace its earth-bound aspects, covering the natural site with an artificial environment that enhances the dominance of man and encourages an illusion of complete independence from nature"_
+
+Increasingly the dominant city form of the day has relied more and more on resources and materials from further and furhter beyond its own boundaries. 
+
+>_"The task of environmental design in its most profound sense, therefore, is to understand the trends and make the most of the opportunities for beneficial change."_
+
+A primary challenge of the next - century, decade, pick your time frame - I would say for the remainder of our time on earth, will be to uncover, encourage, and realize a potential for cities and urbanizing that can support ecosystem function. The connections with nature must be prominant and guiding, otherwise the urban species is likely to be an endangered one.  
+
+
+
+It's not because we've been doing it wrong, and I don't have the answer to how best to build a city. There is no best city, and they're never made alone or for one time. Plus we have several examples all over the world of greatness in our cities. 
+
+
+There are several advatanges to living in cities. They can make the most of new technologies (infrastrcutures), they stimulate ideas and exchange, they're exciting and full of promise. 
+
+## Cities as Nature
+
+
+
+
+Other animals don't have sustainability, they have survival. 
+
 
 
 
@@ -54,7 +85,7 @@ The form and function of our cities has evolved over time as well. Lewis Mumford
 
 >_"a tendency to loosen the bonds that connect [the city's] inhabitants with nature and to transform, eliminate, or replace its earth-bound aspects, covering the natural site with an artificial environment that enhances the dominance of man and encourages an illusion of complete independence from nature"_
 
-Increasinglyt eh dominant city form of the day has relied more and more on resources and materials from further and furhter beyond its own boundaries. 
+Increasingly the dominant city form of the day has relied more and more on resources and materials from further and furhter beyond its own boundaries. 
 
 >_"The task of environmental design in its most profound sense, therefore, is to understand the trends and make the most of the opportunities for beneficial change."_
 

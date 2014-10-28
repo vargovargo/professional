@@ -26,6 +26,8 @@ For 10,000 years we’ve been living in settlements. And for just as long we’v
 
 -----------------
 
+>>The timeline of urbanism helps us understand a bit more about what our future could be and the role cities could play in it.
+
 Looking at a history of our development and settlement we see a trend of continually increasing settlement into, what today we would refer to as cities. 
 
 And we see that massive and lasting innovations are coupled with that urban movement.  
@@ -35,6 +37,10 @@ The first cities helped develop agriculture, accrued wealth and resources and ev
 Things we never intended to create, but which are still with us today, government, writing, and trade emerged in response. 
 
 In the last 2000 years we see some of the cities we’re most familiar with and start to see some of the city planning touchstones that I learned about in graduate school.  But the trend toward urban living has been a long time coming, and today it is taking off. 
+
+>>The first settlements were coincident to the development of agriculture and livestock. Then we see evidence of cities like Jericho and eventually the development of administrative units and more investment in staying and protecting a place (with the invention of the walled city). Specialization of tasks in the cities helps develop food surpluses and we see the first evidence of writing (necessary for keeping records). Next cities appear in Crete and China. Regular trade is established between cities. The cities of Rome and Alexandria get thier starts. Moving to BC, Rome reaches its prominance and serves as a world and historic touchstone for culture, art, technology, wealth, and power. 
+
+>>As we come into the modern age, we begin to see cities and city form we're more familiar with. The modern global hubs of trade and finance emerge. With the the industrial revolutions and mechanization of all manner of tasks. The size, variety, and spread of cities as we most often think of them is a blip on our whole urban history. And it is easy to see that this blip coincides with unprecedented growth in the number of people living in cities. 
 
 If we look at the number of ‘urban dwellers’ we see tremendous growth over the last 300 years and we often hear that today half of the world’s population lives in cities. 3.5 billion people.  
 
@@ -46,23 +52,45 @@ As we talk today about designing change, it’s important to know that all of th
 
 With that much construction and place making yet to happen, decisions around and in urban places do not have to lead us to collapse. They can be take us in a completely different direction.
 
+--------------
+What should future settlements look like?
+Can 7 billion people live like this?
+
+Dividing all the arable land on the planet up yields about 4 tenths of an acre per person, that’s a little more than an acre and a half for a family of four. Which may sound like a lot at first. 
+
+But consider that under this scenario, everyone is on their own for food. There is not much space left for offices, stores, let alone much room for things like biodiversity. Not likely to happen
+
+--------------
+The American model of land consumption and separation of land uses is also not likely survive. 
+
+In his [manifesto for an urban America](http://www.archdaily.com/430538/a-country-of-cities-a-manifesto-for-an-urban-america/), Vishaan Chakrabarti calls the suburb, America’s most dangerous export. The form is becoming attractive in many other parts of the world, perhaps because it is highly subsidized. Yet it underperforms when compared to more urban settings on almost every measure. 
+
+Real urbanism calls for diversity not just size. 
+
+-------------
+Density by itself is not urbanism. The characteristics that make this a slum (limited access to water and sanitation, lack of secure tenure, poor housing quality) are not innate to being urban. 
+
+---------
+We need new models of urban living.
+
+At one level that means places must be well thought out, attractive and empowering – that means human-scale, high quality, and context specific with enabling governance and civic processes
+
+On a larger scale, cities must understand and embrace their relationships to natural material and energy inputs and environmental quality.  
+
+Can cities  be supportive of surrounding and connected environments and species, while providing basic levels of quality for all?
+
+If so, then working to create great urban lives may be the way forward for ensuring quality lives for future generations.
+
+--------
+How can we truly embrace urbanism as part of being human and what benefits would it offer?
+
+That work begins by redefining urban as part of the natural. 
 
 
 
 
 
-
- 
-
-
-
-The timeline of urbanism helps us understand a bit more about what our future could be and the role cities could play in it.
-
-The first settlements were coincident to the development of agriculture and livestock. Then we see evidence of cities like Jericho and eventually the development of administrative units and more investment in staying and protecting a place (with the invention of the walled city). Specialization of tasks in the cities helps develop food surpluses and we see the first evidence of writing (necessary for keeping records). Next cities appear in Crete and China. Regular trade is established between cities. The cities of Rome and Alexandria get thier starts. Moving to BC, Rome reaches its prominance and serves as a world and historic touchstone for culture, art, technology, wealth, and power. 
-
-As we come into the modern age, we begin to see cities and city form we're more familiar with. The modern global hubs of trade and finance emerge. With the the industrial revolutions and mechanization of all manner of tasks. The size, variety, and spread of cities as we most often think of them is a blip on our whole urban history. And it is easy to see that this blip coincides with unprecedented growth in the number of people living in cities. 
-
-
+---------
 
 
 <!---The form and function of our cities has evolved over time as well. Lewis Mumford described this evolution as embodying 

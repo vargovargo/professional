@@ -46,8 +46,6 @@ If we look at the number of ‘urban dwellers’ we see tremendous growth over t
 
 The spike in the urban population coincides with a couple other important trends that I am interested in from an environmental and health perspective. You may be familiar with climate change’s infamous hockey stick graph. It depicts atmospheric concentrations of green house gases and shows the massive impact that human use of fossil fuels is having. Recent growth parallels global environmental issues, and the scariest part is that the next century is forecast to be the most urban yet. It took us 100 centuries to reach 3.5 billion now and we’re expected add 5 billion in the next 100 years (century). 
 
-It would be easy to look at the two and to think urban living is the source of our global environmental problems, but it doesn’t have to be.  I believe that being mindful of our urban nature can actually be the key to helping us solve some of the problems we face. 
-
 As we talk today about designing change, it’s important to know that all of the development that has taken place from Mesopotamia til now will be equaled by urban development in the next 50 years. That means not only new cities, but rebuilding the places we already have.  
 
 With that much construction and place making yet to happen, decisions around and in urban places do not have to lead us to collapse. They can be take us in a completely different direction.
@@ -84,32 +82,34 @@ If so, then working to create great urban lives may be the way forward for ensur
 --------
 How can we truly embrace urbanism as part of being human and what benefits would it offer?
 
-That work begins by redefining urban as part of the natural. 
+It would be easy to look at the two and to think urban living is the source of our global environmental problems, but it doesn’t have to be.  I believe that being mindful of our urban nature can actually be the key to helping us solve some of the problems we face. 
+
+----------
+
+The first thing we need is to redefine the relationship of urban and the environment. Historically cities have reinforced the dominance of man over nature.
+
+----------
+
+What do I mean by urbanism? I mean degrees of urbanism where intensity proximity connectedness diversity increase as you move to the right.
+
+----------
+
+Energy use and pollution. Per capita carbon. Unlikely suburbs can exist as 2/3 of population
+
+----------
+
+Talking the elevator to ground you'll be able to walk to twice the number of store in an urban layout
+
+----------
+
+One powerful aspect of urban design is it can have impact on behaviors as modified environments. Cities influence our behavior. Even people who preferred to live in single family housing but lived in an urban layout walked more than those who lived in single famy homes
+
+----------
+
+Data on how our brains have evolved to function more effecently with higher degrees of urbanism. Here participants were given a task of choosing which mailbox was closer. Participants were more quickly able to make the correct decision in the more connected hypothetical setting perhaps suggesting that the same environmental advantage would prefer existence in an urban setting.
+
+----------
+So you know what I'm going to say next... No we should not build cities on the moon.
 
 
 
-
-
----------
-
-
-<!---The form and function of our cities has evolved over time as well. Lewis Mumford described this evolution as embodying 
-
-_"a tendency to loosen the bonds that connect [the city's] inhabitants with nature and to transform, eliminate, or replace its earth-bound aspects, covering the natural site with an artificial environment that enhances the dominance of man and encourages an illusion of complete independence from nature"_
-
-Increasingly the dominant city form of the day has relied more and more on resources and materials from further and furhter beyond its own boundaries. 
-
->_"The task of environmental design in its most profound sense, therefore, is to understand the trends and make the most of the opportunities for beneficial change."_ --->
-
-A primary challenge of the next - century, decade, pick your time frame - I would say for the remainder of our time on earth, will be to uncover, encourage, and realize a potential for cities and urbanizing that can support ecosystem function. The connections with nature must be prominant and guiding, otherwise the urban species is likely to be an endangered one.  
-
-
-
-It's not because we've been doing it wrong, and I don't have the answer to how best to build a city. There is no best city, and they're never made alone or for one time. Plus we have several examples all over the world of greatness in our cities. 
-
-
-There are several advatanges to living in cities. They can make the most of new technologies (infrastrcutures), they stimulate ideas and exchange, they're exciting and full of promise. 
-
-<!--- "One of the few advantages of age, when you talk about the future is that you've already been there so many times." [Nicholas Negroponte](http://www.npr.org/2013/08/26/215826949/predicting-the-future) ---> 
-
-What is the difference between an anthill and a city? I hope that going forward we begin to see cities natural processes as well as part of our nature. 

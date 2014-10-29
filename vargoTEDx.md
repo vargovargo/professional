@@ -109,6 +109,7 @@ One powerful aspect of urban design is it can have impact on behaviors as modifi
 Data on how our brains have evolved to function more effecently with higher degrees of urbanism. Here participants were given a task of choosing which mailbox was closer. Participants were more quickly able to make the correct decision in the more connected hypothetical setting perhaps suggesting that the same environmental advantage would prefer existence in an urban setting.
 
 ----------
+
 So you know what I'm going to say next... No we should not build cities on the moon.
 
 

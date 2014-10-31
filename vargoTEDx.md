@@ -6,27 +6,20 @@ What was the first domesticated animal?
 
 What if the answer is US?  What if domestication -- settlement, society, even cities are part of our evolution as humans? Part of what makes us human?
 
-Darwin was one of the first to suggest that we showed some physical signs of domestication. Behaviorally, evolutionary scientists suggest, we benefited from working together and that social ties became more important to survival. 
-
-It’s not a realization that’s so easy to swallow. And, as a recent Science article on the topic pointed out, we don’t like to think of ourselves as ‘tame’.
-
 ---------------------------------
+Perhaps it's fitting that DaVinci's drawing and the notes that accompany it came from a Roman architect and Civil Engineer. 
 
-And yet, it is probably the source for some of the most amazing advances in our species’ existence. 
+Darwin was one of the first to suggest that we showed some physical signs of domestication. And there is little argument that in terms of our social evolution  moving into settlements, working together and forming stronger social ties was a milestone. 
 
 Eventually domestication led to us exhibit a tendency to settle and stay in one place. One feature of our brains that is most amazing is their ability to envision situations and circumstances that we’re not actually experiencing. We can put ourselves in other people’s shoes. And at some point we began to think about the future. Our understanding of how actions in the present could be connected to outcomes down the road is another reason we began to settle. We began to make the most of the land and other human resources around us and we invested time in making place. 
 
->>At some point when we envisioned the future, we began to stay put. Maybe we choose the people with us, maybe they choose us, but we settled in places, often with other people and we began to think more strategically about how best to use the resources of the place and people where we were. 
+It’s not a realization that’s so easy to swallow. And, as a recent Science article on the topic pointed out, we don’t like to think of ourselves as ‘tame’.
 
-For 10,000 years we’ve been living in settlements. And for just as long we’ve been taking advantage of their benefits. They are the same benefits we talk about today when we talk about cities – exchange of ideas, goods, specialization. 
-
-<!---human domestication http://www.jstor.org/stable/10.1086/368119 
-"For the human, the combination of adoption of a built environment, change in diet consistency, and lowered mobility brought about morphological changes similar to those seen in certain domestic animals."
---->
+And yet, it is probably the source for some of the most amazing advances in our species’ existence. 
 
 -----------------
 
->>The timeline of urbanism helps us understand a bit more about what our future could be and the role cities could play in it.
+For 10,000 years we’ve been living in settlements. And for just as long we’ve been taking advantage of their benefits. They are the same benefits we talk about today when we talk about cities – exchange of ideas, goods, specialization. 
 
 Looking at a history of our development and settlement we see a trend of continually increasing settlement into, what today we would refer to as cities. 
 
@@ -38,17 +31,14 @@ Things we never intended to create, but which are still with us today, governmen
 
 In the last 2000 years we see some of the cities we’re most familiar with and start to see some of the city planning touchstones that I learned about in graduate school.  But the trend toward urban living has been a long time coming, and today it is taking off. 
 
->>The first settlements were coincident to the development of agriculture and livestock. Then we see evidence of cities like Jericho and eventually the development of administrative units and more investment in staying and protecting a place (with the invention of the walled city). Specialization of tasks in the cities helps develop food surpluses and we see the first evidence of writing (necessary for keeping records). Next cities appear in Crete and China. Regular trade is established between cities. The cities of Rome and Alexandria get thier starts. Moving to BC, Rome reaches its prominance and serves as a world and historic touchstone for culture, art, technology, wealth, and power. 
-
->>As we come into the modern age, we begin to see cities and city form we're more familiar with. The modern global hubs of trade and finance emerge. With the the industrial revolutions and mechanization of all manner of tasks. The size, variety, and spread of cities as we most often think of them is a blip on our whole urban history. And it is easy to see that this blip coincides with unprecedented growth in the number of people living in cities. 
-
 If we look at the number of ‘urban dwellers’ we see tremendous growth over the last 300 years and we often hear that today half of the world’s population lives in cities. 3.5 billion people.  
 
-The spike in the urban population coincides with a couple other important trends that I am interested in from an environmental and health perspective. You may be familiar with climate change’s infamous hockey stick graph. It depicts atmospheric concentrations of green house gases and shows the massive impact that human use of fossil fuels is having. Recent growth parallels global environmental issues, and the scariest part is that the next century is forecast to be the most urban yet. It took us 100 centuries to reach 3.5 billion now and we’re expected add 5 billion in the next 100 years (century). 
+The spike in the urban population coincides with a couple other important trends that I am interested in from an environmental and health perspective. You may be familiar with climate change’s infamous hockey stick graph. It depicts atmospheric concentrations of green house gases and shows the massive impact that human use of fossil fuels is having. 
 
+__Recent growth parallels global environmental issues, and the scariest part is that the next century is forecast to be the most urban yet.__ It took us 100 centuries to reach 3.5 billion now and we’re expected add 5 billion in the next 100 years (century). 
 As we talk today about designing change, it’s important to know that all of the development that has taken place from Mesopotamia til now will be equaled by urban development in the next 50 years. That means not only new cities, but rebuilding the places we already have.  
 
-With that much construction and place making yet to happen, decisions around and in urban places do not have to lead us to collapse. They can be take us in a completely different direction.
+With that much construction and place making yet to happen, __decisions around and in urban places do not have to lead us to collapse. They can be take us in a completely different direction__.
 
 --------------
 What should future settlements look like?

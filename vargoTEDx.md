@@ -72,7 +72,7 @@ If so, then working to create great urban lives may be the way forward for ensur
 --------
 How can we truly embrace urbanism as part of being human and what benefits would it offer?
 
-It would be easy to look at the two and to think urban living is the source of our global environmental problems, but it doesn’t have to be.  I believe that being mindful of our urban nature can actually be the key to helping us solve some of the problems we face. 
+It would be easy to look at city living and global environmental trends and to think urban living is the source of our problems, but it doesn’t have to be.  I believe that being mindful of our urban nature can actually be the key to helping us solve some of the problems we face. 
 
 ----------
 
@@ -100,7 +100,12 @@ Data on how our brains have evolved to function more effecently with higher degr
 
 ----------
 
-So you know what I'm going to say next... No we should not build cities on the moon.
+So you know what I'm going to say next... We need to build cities on the moon.
 
+No. I'm kidding, but whenever we face huge challenges we evoke missions to the Moon. And there's one lunar mission that most of you are familiar with - Apollo 13. To put it mildly... they had a problem. The were running low on fuel, low support systems were failing and they were headed in the wrong direction. They had to get creative to help themselves and they had to solve their problems in the easiest, most efficient ways. They ended up using something called a free return trajectory, which made use of the forces around them, the gravity and the inertia of the Moon, to turn them 180 degrees and point them back toward Earth. 
+
+-----------
+
+And the metaphor seems particularly appropriate now, while we're going in the wrong direction on the global environment. But if we can use our species' momentum toward cities we might be able to create new solutions that point as in a new direction. 
 
 

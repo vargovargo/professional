@@ -10,8 +10,9 @@
 <a name="employment"></a>
 ##CURRENT EMPLOYMENT##
 >###Assistant Scientist	-- University of Wisconsin-Madison, August 2014 - present###
-*Nelson Institute for Environmental Studies*
-*Global Health Institute*
+>*[Nelson Institute Center for Sustainability and the Global Environment](http://www.sage.wisc.edu/people/vargo/vargo.html)*
+
+>*[Global Health Institute](http://ghi.wisc.edu/person-types/staff-associates/#6640)*
 <!--- >###Postdoctoral Fellow	University of Wisconsin-Madison, October 2012 - August 2014###
 *Center for Sustainability and the Global Environment*
 *Global Health Institute* -->
@@ -91,11 +92,21 @@ Co-taught with instructor from GSU course for graduate public health students
 
 >>**Vargo, Jason**, Jason Schatz, Chris Kucharik, and Jonathan Patz. “Influence of Temperature of Crime within Urban Areas.“ (Submission December 2015).
 
+>###Acknowledgements###
+>>Lynch, Barbara Deutsch. "Vulnerabilities, competition and rights in a context of climate change toward equitable water governance in Peru's Rio Santa Valley." *Global Environmental Change* 22, no. 2 (2012): 364-373. [doi: 10.1016/j.gloenvcha.2012.02.002](http://www.sciencedirect.com/science/article/pii/S0959378012000210)
+
+>>Stone, Brian, Jeremy J. Hess, and Howard Frumkin. "[Urban form and extreme heat events: are sprawling cities more vulnerable to climate change than compact cities](https://www.scienceopen.com/document_file/f0de03f6-88c6-4130-bd5e-8832a246674d/PubMedCentral/f0de03f6-88c6-4130-bd5e-8832a246674d.pdf)." *Environmental Health Perspectives* 118, no. 10 (2010): 1425-1428.
+
+>>Zhou, Ying, Joshua S. Fu, Guoshun Zhuang, and Jonathan I. Levy. 2010. "Risk-based Prioritization among Air Pollution Control Strategies in the Yangtze River Delta, China." *Environmental Health Perspectives* 118, no. 9 (2010): 1204-1210. [doi://10.1289/ehp.1001991](http://dash.harvard.edu/handle/1/8605288)
+
 <a name="presentations"></a>
 ##PRESENTATIONS##
 >###Invited Talks###
+>>*[Our Urban Nature](vargoTEDx.md)*
+TEDxUWMadison 2014 Designing Change - Madison, WI Nov. 1, 2014
+
 >>*[Understanding Place: The City](TheCity.md)*
-Bucknell University - Lewisburg, PA Sep 24, 2014
+Bucknell University - Lewisburg, PA Sep. 24, 2014
 
 >>*Climate Adaptation through Design: Heat Mitigation and Mortality*
 NSF Urban Climate Institute Research Coordination Network - Atlanta, GA   July 9, 2014	

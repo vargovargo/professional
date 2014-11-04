@@ -76,7 +76,7 @@ Co-taught with instructor from GSU course for graduate public health students
 >###Book Chapters###
 >>"Planning Healthy and Sustainable Built Environments." In *Climate Change and Public Health.* J. Patz and B. Levy (Eds.), Oxford, UK: Oxford University Press, 2015.
 
->>“Planning for the Forest and the Trees.” In *Planning Atlanta: Ruins and Resurgence.* H. Etienne and B. Faga (Eds.), Washington D.C.: American Planning Association Planners Press, 2014.
+>>“Planning for the Forest and the Trees.” In *[Planning Atlanta: Ruins and Resurgence](https://www.planning.org/store/product/?ProductCode=BOOK_A01269).* H. Etienne and B. Faga (Eds.), Washington D.C.: American Planning Association Planners Press, 2014.
 
 >###Miscellaneous###
 >>**Vargo, Jason** and Jonathan Patz. “[On the (Bike) Path to Prosperity: Why Banning Bikes Is Bad for Kolkata.](http://www.huffingtonpost.com/jason-vargo/kolkata-bike-ban_b_4157234.html)” The Huffington Post,  Oct. 24, 2013. 

@@ -119,7 +119,7 @@ Data on how our brains have evolved to function more effecently with higher degr
 
 So you know what I'm going to say next... We need to build cities on the moon.
 
-No. I'm kidding, but whenever we face huge challenges we evoke missions to the Moon. And there's one lunar mission that most of you are familiar with - Apollo 13. To put it mildly... they had a problem. The were running low on fuel, low support systems were failing and they were headed in the wrong direction. They had to get creative to help themselves and they had to solve their problems in the easiest, most efficient ways. They ended up using something called a free return trajectory, which made use of the forces around them, the gravity and the inertia of the Moon, to turn them 180 degrees and point them back toward Earth. 
+No. I'm kidding, but whenever we face huge challenges we evoke missions to the Moon. And there's one lunar mission that most of you are familiar with - Apollo 13. To put it mildly... they had a problem. The were running low on fuel, life support systems were failing and they were headed in the wrong direction. They had to get creative to help themselves and they had to solve their problems in the easiest, most efficient ways. They ended up using something called a free return trajectory, which made use of the forces around them, the gravity and the inertia of the Moon, to turn them 180 degrees and point them back toward Earth. 
 
 -----------
 

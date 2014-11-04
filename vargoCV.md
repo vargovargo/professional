@@ -95,9 +95,11 @@ Co-taught with instructor from GSU course for graduate public health students
 >###Acknowledgements###
 >>Lynch, Barbara Deutsch. "Vulnerabilities, competition and rights in a context of climate change toward equitable water governance in Peru's Rio Santa Valley." *Global Environmental Change* 22, no. 2 (2012): 364-373. [doi: 10.1016/j.gloenvcha.2012.02.002](http://www.sciencedirect.com/science/article/pii/S0959378012000210)
 
->>Stone, Brian, Jeremy J. Hess, and Howard Frumkin. "[Urban form and extreme heat events: are sprawling cities more vulnerable to climate change than compact cities](https://www.scienceopen.com/document_file/f0de03f6-88c6-4130-bd5e-8832a246674d/PubMedCentral/f0de03f6-88c6-4130-bd5e-8832a246674d.pdf)." *Environmental Health Perspectives* 118, no. 10 (2010): 1425-1428.
+>>Stone, Brian, Jeremy J. Hess, and Howard Frumkin. "Urban form and extreme heat events: are sprawling cities more vulnerable to climate change than compact cities." *Environmental Health Perspectives* 118, no. 10 (2010): 1425-1428. [doi: 10.1289/ehp.0901879](https://www.scienceopen.com/document_file/f0de03f6-88c6-4130-bd5e-8832a246674d/PubMedCentral/f0de03f6-88c6-4130-bd5e-8832a246674d.pdf)
 
 >>Zhou, Ying, Joshua S. Fu, Guoshun Zhuang, and Jonathan I. Levy. 2010. "Risk-based Prioritization among Air Pollution Control Strategies in the Yangtze River Delta, China." *Environmental Health Perspectives* 118, no. 9 (2010): 1204-1210. [doi://10.1289/ehp.1001991](http://dash.harvard.edu/handle/1/8605288)
+
+>>Stone Jr, Brian. "Land use as climate change mitigation." *Environmental Science & Technology* 43, no. 24 (2009): 9052-9056. [doi: 10.1021/es902150g](http://pubs.acs.org/doi/abs/10.1021/es902150g)
 
 <a name="presentations"></a>
 ##PRESENTATIONS##

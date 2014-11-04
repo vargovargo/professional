@@ -101,6 +101,8 @@ Co-taught with instructor from GSU course for graduate public health students
 
 >>Stone Jr, Brian. "Land use as climate change mitigation." *Environmental Science & Technology* 43, no. 24 (2009): 9052-9056. [doi: 10.1021/es902150g](http://pubs.acs.org/doi/abs/10.1021/es902150g)
 
+>>Barbosa-Cesnik, Cibele, Rand S. Farjo, May Patel, Janet Gilsdorf, Sandra I. McCoy, Melinda M. Pettigrew, Carl Marrs, and Betsy Foxman. "Predictors for Haemophilus influenzae colonization, antibiotic resistance and for sharing an identical isolate among children attending 16 licensed day-care centers in Michigan." *The Pediatric Infectious Disease Journal* 25, no. 3 (2006): 219-223. [doi: 10.1097/01.inf.0000202130.78540.28](http://journals.lww.com/pidj/Abstract/2006/03000/Predictors_for_Haemophilus_influenzae.9.aspx)
+
 <a name="presentations"></a>
 ##PRESENTATIONS##
 >###Invited Talks###

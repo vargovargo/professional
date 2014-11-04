@@ -27,7 +27,7 @@ And we see that massive and lasting innovations are coupled with that urban move
 
 The first cities helped develop agriculture, accrued wealth and resources and eventually even stores of food. 
 
-Things we never intended to create, but which are still with us today, government, writing, and trade emerged in response. 
+Things we never intended to create, but which are still with us today, government, politics, rights, writing, and trade emerged in response. 
 
 In the last 2000 years we see some of the cities we’re most familiar with and start to see some of the city planning touchstones that I learned about in graduate school.  But the trend toward urban living has been a long time coming, and today it is taking off. 
 

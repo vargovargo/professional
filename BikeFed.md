@@ -40,7 +40,7 @@ As an intern at Georgia Tech’s Center for Quality Growth and Regional Developm
 An important part of my work has been making and fostering connections to other scientists and advocates in this arena. My network of active transportation, planning, and public health contacts could be an asset for cycling advocacy. 
 
 
-##PERSONAL AND PROFESSIONAL CHARACTER## 
+##PERSONAL AND PROFESSIONAL CHARACTER 
 
 I see building mutually supportive relationships as key to personal and profession satisfaction. At work, I seek to make projects better and help my colleagues do their best. I’ve done this by first sharing skills. In every work setting I’ve been a part of I have found ways to share my skills with co-workers in ways they’ve found beneficial. As a post-doctoral scholar at UW’s Center for Sustainability and the Global Environment, I started a [weekly lunch meeting for staff](http://sagebrownbag.wordpress.com/) to share a skill of their own with co-workers. The results expanded the capacity of many workers and encouraged collaboration. Trust building is inherent in this type of knowledge exchange, and the whole organization is made stronger.
 

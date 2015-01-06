@@ -55,7 +55,7 @@ Co-taught with instructor from GSU course for graduate public health students
 >###Peer-reviewed Journals###
 >>**Vargo, Jason**, Benjamin Gerhardstein, Geoffrey Whitfield, and Arthur Wendel. “Motor Vehicle Traffic-Related Bicyclist Deaths—United States, 1975–2012.” *Morbidity and Mortality Weekly Report (MMWR)* (in review).
 
->>Habeeb, Dana, **Jason Vargo**, and Brian Stone. “Rising Heat Wave Trends in Large US Cities.” *Natural Hazards* (Accepted Dec. 18, 2014).
+>>Habeeb, Dana, **Jason Vargo**, and Brian Stone. “Rising Heat Wave Trends in Large US Cities.” *Natural Hazards* (available online 2015).[doi: 10.1007/s11069-014-1563-z](http://link.springer.com/article/10.1007/s11069-014-1563-z)
 
 >>**Vargo, Jason**. “Metro sapiens: an urban species.” *Journal of Environmental Studies and Sciences* (2014). [doi: 10.1007/s13412-014-0195-7](http://link.springer.com/article/10.1007/s13412-014-0195-7).
 

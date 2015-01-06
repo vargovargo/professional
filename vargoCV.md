@@ -79,12 +79,14 @@ Co-taught with instructor from GSU course for graduate public health students
 >>“Planning for the Forest and the Trees.” In *[Planning Atlanta: Ruins and Resurgence](https://www.planning.org/store/product/?ProductCode=BOOK_A01269).* H. Etienne and B. Faga (Eds.), Washington D.C.: American Planning Association Planners Press, 2014.
 
 >###Miscellaneous###
+>> Sarah Zielinski. "[Humans Are Becoming City-Dwelling "Metro Sapiens"](http://www.smithsonianmag.com/science-nature/humans-are-becoming-city-dwelling-metro-sapiens-180953449/?no-ist)" Smithsonian.com, Nov. 24, 2014.
+
 >>**Vargo, Jason** and Jonathan Patz. “[On the (Bike) Path to Prosperity: Why Banning Bikes Is Bad for Kolkata.](http://www.huffingtonpost.com/jason-vargo/kolkata-bike-ban_b_4157234.html)” The Huffington Post,  Oct. 24, 2013. 
 
 >###In Preparation###
->>Schatz, Jason, **Jason Vargo**, Chris Kucharik, and Jonathan Patz. “Urban heat island effects on heat risk in Madison, Wisconsin, USA.” Environmental Health Perspectives (Submission November 2014).
+>>**Vargo, Jason**, Qingyang Xiao, and Yang Liu. “The Performance of the National Weather Service Heat Warning System Against Personal Weather Stations and Land Surface Temperature Imagery.” *Advances in Meteorology* (Submission January 2015).
 
->>**Vargo, Jason**, Qingyang Xiao, and Yang Liu. “The Performance of the National Weather Service Heat Warning System Against Personal Weather Stations and Land Surface Temperature Imagery.” *Advances in Meteorology* (Submission December 2014).
+>>Schatz, Jason, **Jason Vargo**, Chris Kucharik, and Jonathan Patz. “Urban heat island effects on heat risk in Madison, Wisconsin, USA.” Environmental Health Perspectives (Submission March 2015).
 
 >>Lemay, Vijay, **Jason Vargo**, Monica Harkey, Tracey Holloway, and Jonathan Patz. “Climate Change and Heat Stress Mortality in the Eastern US.” *Environmental Science and Technology* (Submission December 2014).
 

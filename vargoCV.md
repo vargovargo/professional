@@ -112,6 +112,7 @@ Co-taught with instructor from GSU course for graduate public health students
 TEDxUWMadison 2014 Designing Change - Madison, WI Nov. 1, 2014
 
 >>>[YouTube capture](https://www.youtube.com/watch?v=ERjTXo5M0bY)
+
 >>>[Vimeo - includes slides](https://vimeo.com/116662482)
 
 >>*[Understanding Place: The City](TheCity.md)*

@@ -22,9 +22,9 @@
 >###PhD		--	Georgia Institute of Technology
 *City and Regional Planning*, December 2012
 >###MPH	--		Emory University
-*Global Environmental Health*, December 2009
+*Global Environmental Health*, May 2009
 >###MCRP	--		Georgia Institute of Technology###
-*City and Regional Planning*, December 2009
+*City and Regional Planning*, May 2009
 >###BSE		--	University of Michigan
 *Chemical Engineering*, April 2001
 

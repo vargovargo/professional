@@ -1,6 +1,12 @@
 
 ### A talk given at the [TEDx UWMadison](http://www.ted.com/tedx/events/12377) event November 1, 2014###
 
+## [video of the talk can be found here](https://www.youtube.com/watch?v=ERjTXo5M0bY)
+
+##[ audio of the talk with slides here](https://vimeo.com/116662482)
+
+## coverage here [from Nelson](http://nelson.wisc.edu/news/story.php?story=2059) and on [Smithsonianmag.com](http://www.smithsonianmag.com/science-nature/humans-are-becoming-city-dwelling-metro-sapiens-180953449/?no-ist)
+
 #Our Urban Nature#
 What was the first domesticated animal? 
 

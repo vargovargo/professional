@@ -22,7 +22,9 @@
 >###PhD		--	Georgia Institute of Technology
 *City and Regional Planning*, December 2012
 >> Major field: environmental planning
+
 >> Minor field: environmnetal health
+
 >###MPH	--		Emory University
 *Global Environmental Health*, May 2009
 >###MCRP	--		Georgia Institute of Technology###
@@ -114,12 +116,14 @@ Co-taught with instructor from GSU course for graduate public health students
 
 >>James Bruggers. "['Hot Spots' Make Mercury Rise in Louisville](http://www.courier-journal.com/story/tech/science/environment/2014/06/27/top-hot-spots-louisville/11505235/)" The Courier-Journal, Jun. 27, 2014.
 
-
-
-
 <a name="presentations"></a>
 ##PRESENTATIONS##
 >###Invited Talks###
+>>*Urban Warming and Health*
+Urban Nature as a Health Resource hosted by The Hixon Center for Urban Ecology at the Yale School of Forestry & Environmental Studies - New Haven, CT Feb. 6, 2015
+
+>>>[video capture](http://new.livestream.com/YaleFES/urban-nature/videos/76183368)
+
 >>*[Our Urban Nature](vargoTEDx.md)*
 TEDxUWMadison 2014 Designing Change - Madison, WI Nov. 1, 2014
 
@@ -127,7 +131,7 @@ TEDxUWMadison 2014 Designing Change - Madison, WI Nov. 1, 2014
 
 >>>[Vimeo - includes slides](https://vimeo.com/116662482)
 
->>*[Understanding Place: The City](TheCity.md)*
+>>*Understanding Place: The City*
 Bucknell University - Lewisburg, PA Sep. 24, 2014
 
 >>*Climate Adaptation through Design: Heat Mitigation and Mortality*

@@ -21,6 +21,8 @@
 ##EDUCATION##
 >###PhD		--	Georgia Institute of Technology
 *City and Regional Planning*, December 2012
+>> Major field: environmental planning
+>> Minor field: environmnetal health
 >###MPH	--		Emory University
 *Global Environmental Health*, May 2009
 >###MCRP	--		Georgia Institute of Technology###
@@ -242,6 +244,8 @@ This grants aims to create an adaptive model of evaluating the health impacts of
 Role: research scientist
 
 ##PROFESSIONAL TRAINING##
+
+>UW-Madison Software Bootcamp training in Unix, Python, git
 
 >Course on USEPA’s Environmental Benefits Mapping and Analysis Program (BenMAP) 
 Community Modeling and Analysis (CMAS) - Chapel Hill, NC   Oct. 2009

@@ -79,8 +79,6 @@ Co-taught with instructor from GSU course for graduate public health students
 >>“Planning for the Forest and the Trees.” In *[Planning Atlanta: Ruins and Resurgence](https://www.planning.org/store/product/?ProductCode=BOOK_A01269).* H. Etienne and B. Faga (Eds.), Washington D.C.: American Planning Association Planners Press, 2014.
 
 >###Miscellaneous###
->> Sarah Zielinski. "[Humans Are Becoming City-Dwelling "Metro Sapiens"](http://www.smithsonianmag.com/science-nature/humans-are-becoming-city-dwelling-metro-sapiens-180953449/?no-ist)" Smithsonian.com, Nov. 24, 2014.
-
 >>**Vargo, Jason** and Jonathan Patz. “[On the (Bike) Path to Prosperity: Why Banning Bikes Is Bad for Kolkata.](http://www.huffingtonpost.com/jason-vargo/kolkata-bike-ban_b_4157234.html)” The Huffington Post,  Oct. 24, 2013. 
 
 >###In Preparation###
@@ -104,6 +102,18 @@ Co-taught with instructor from GSU course for graduate public health students
 >>Stone Jr, Brian. "Land use as climate change mitigation." *Environmental Science & Technology* 43, no. 24 (2009): 9052-9056. [doi: 10.1021/es902150g](http://pubs.acs.org/doi/abs/10.1021/es902150g)
 
 >>Barbosa-Cesnik, Cibele, Rand S. Farjo, May Patel, Janet Gilsdorf, Sandra I. McCoy, Melinda M. Pettigrew, Carl Marrs, and Betsy Foxman. "Predictors for Haemophilus influenzae colonization, antibiotic resistance and for sharing an identical isolate among children attending 16 licensed day-care centers in Michigan." *The Pediatric Infectious Disease Journal* 25, no. 3 (2006): 219-223. [doi: 10.1097/01.inf.0000202130.78540.28](http://journals.lww.com/pidj/Abstract/2006/03000/Predictors_for_Haemophilus_influenzae.9.aspx)
+
+>###Press Coverage###
+>> Melanie Ginsburg. "[Seeking sustainable urban habitat for tomorrow’s ‘metro sapiens’](http://nelson.wisc.edu/news/story.php?story=2059)" Nelson Institute Website, Jan. 21, 2015.
+
+>>Niina Heikkinen. "[How People Make the Summer Hotter](http://www.scientificamerican.com/article/how-people-make-summer-hotter/)" Scientific American, Nov. 25, 2014.
+
+>>Sarah Zielinski. "[Humans Are Becoming City-Dwelling 'Metro Sapiens'](http://www.smithsonianmag.com/science-nature/humans-are-becoming-city-dwelling-metro-sapiens-180953449/?no-ist)" Smithsonian.com, Nov. 24, 2014.
+
+>>James Bruggers. "['Hot Spots' Make Mercury Rise in Louisville](http://www.courier-journal.com/story/tech/science/environment/2014/06/27/top-hot-spots-louisville/11505235/)" The Courier-Journal, Jun. 27, 2014.
+
+
+
 
 <a name="presentations"></a>
 ##PRESENTATIONS##
@@ -242,7 +252,7 @@ Emory University - Atlanta, GA    June 2007
 ##PROFESSIONAL SERVICE##
 					
 >*Manuscript Reviewer*
-Health & Place, Environmental Science & Technology, Environmental Health Perspectives, Environmental Research Letters, African Journal of Environmental Science and Technology, International Journal of Environmental Research and Public Health
+Health & Place, Environmental Science & Technology, Environmental Health Perspectives, Environmental Research Letters, African Journal of Environmental Science and Technology, International Journal of Environmental Research and Public Health, Urban Climate
 					
 >*Atlanta Bicycle Campaign* 
 Volunteer coordinator for first and second annual Atlanta Streets Alive! events 

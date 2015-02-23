@@ -1,4 +1,7 @@
 #Jason Vargo
+
+___I often describe my work with two ideas.  First – city in environment – where cities/settlements sit within, and affect, surrounding 'natural environments'. The activities of the city depend on materials from the environment but also impact the quality, availability, and integrity of those environments. Second – city as environment – where the built and social settings of our daily lives influence behaviors, exposures, and relationships that determine our mental and physical health. As a scientist at the University of Wisconsin-Madison researching connections between urbanism and public health. I have studied the impacts of the built environment on healthy behaviors as well as the impact of urbanism and local decisions on larger ecosystems. I am currently developing a campus-wide initiative that connects UW research to action for improving cities. My expertise spans scientific analysis of measured, surveyed and remotely sensed data, creative contributions to project and research design, and leadership through team building and concept development.___
+
    >Home
    - 314 Dunning St. Madison, WI 53704
    - jvargo [at] gmail [dot] com

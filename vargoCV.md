@@ -62,11 +62,11 @@ Co-taught with instructor from GSU course for graduate public health students
 >###Peer-reviewed Journals###
 >>**Vargo, Jason**, Benjamin Gerhardstein, Geoffrey Whitfield, and Arthur Wendel. “Motor Vehicle Traffic-Related Bicyclist Deaths—United States, 1975–2012.” *Morbidity and Mortality Weekly Report (MMWR)* (in review).
 
->>Habeeb, Dana, **Jason Vargo**, and Brian Stone. “Rising Heat Wave Trends in Large US Cities.” *Natural Hazards* (available online 2015).[doi: 10.1007/s11069-014-1563-z](http://link.springer.com/article/10.1007/s11069-014-1563-z)
+>>Habeeb, Dana, **Jason Vargo**, and Brian Stone. “Rising Heat Wave Trends in Large US Cities.” *Natural Hazards* 76:3, (2015): 1651-1665.[doi: 10.1007/s11069-014-1563-z](http://link.springer.com/article/10.1007/s11069-014-1563-z)
 
 >>**Vargo, Jason**. “Metro sapiens: an urban species.” *Journal of Environmental Studies and Sciences* (2014). [doi: 10.1007/s13412-014-0195-7](http://link.springer.com/article/10.1007/s13412-014-0195-7).
 
->>Stone, Brian, **Jason Vargo**, Peng Liu, Dana Habeeb, Anthony DeLucia, Marcus Trail, Yongtao Hu, and Armistead Russell. “Avoided heat-related mortality through climate adaptation strategies in three US cities.” *PLoS ONE 9*(6), e100852. [doi:10.1371/journal.pone.0100852](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100852)
+>>Stone, Brian, **Jason Vargo**, Peng Liu, Dana Habeeb, Anthony DeLucia, Marcus Trail, Yongtao Hu, and Armistead Russell. “Avoided heat-related mortality through climate adaptation strategies in three US cities.” *PLoS ONE* 9(6), e100852. [doi:10.1371/journal.pone.0100852](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100852)
 
 >>Stone, Brian, **Jason Vargo**, Peng Liu, Yongtao Hu, and Armistead Russell. “Climate change adaptation through urban heat management in Atlanta, Georgia.” *Environmental Science and Technology* 47:14, (2013): 7780-7786. [doi: 10.1021/es304352e](http://pubs.acs.org/doi/abs/10.1021/es304352e)
 

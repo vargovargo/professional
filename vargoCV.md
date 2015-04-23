@@ -125,7 +125,7 @@ Co-taught with instructor from GSU course for graduate public health students
 ##PRESENTATIONS##
 >###Invited Talks###
 >>*Measuring the Urban Environment for Health*
-Sustainable Helath Urban Environments (SHUE) workshop hosted by London School of Hygeine & Tropical Medicine and University College London - London, UK Apr. 22, 2015
+Sustainable Healthy Urban Environments (SHUE) workshop hosted by London School of Hygeine & Tropical Medicine and University College London - London, UK Apr. 22, 2015
 
 >>*Should We Doctor Climate Science? - A Survey of Physicians in Wisconsin*
 9th Annual Nelson Institute Earth Day Conference - Madison, WI Apr. 20, 2015
@@ -245,11 +245,13 @@ PI: Tracey Holloway
 The study will examine the benefits to climate, air quality, and health associated with low-carbon electricity production, fuel use, engine technology, building design and transportation planning.  
 Role: research scientist
 
+<!---
 >>*Weather Risk and Sustainable Urban Infrastructure*
 National Science Foundation Sustainability Research Network 
 PI: Tracey Holloway
 The study will explore unanswered questions pertaining to the science of urban sustainability, primarily be assessing the adaptive capacity of urban physical and administrative infrastructure to cope with increasing extreme events resulting from global climate change. 
 Role: research scientist
+-->
 
 >###In Preparation###
 >>*Integrating Health Co-Benefits into Transportation Planning Across the United States*
@@ -271,7 +273,7 @@ Emory University - Atlanta, GA    June 2007
 ##PROFESSIONAL SERVICE##
 					
 >*Manuscript Reviewer*
-Health & Place, Environmental Science & Technology, Environmental Health Perspectives, Environmental Research Letters, African Journal of Environmental Science and Technology, International Journal of Environmental Research and Public Health, Urban Climate
+Health & Place, Environmental Science & Technology, Environmental Health Perspectives, Environmental Research Letters, African Journal of Environmental Science and Technology, International Journal of Environmental Research and Public Health, Urban Climate, Journal of Physical Activity & Health
 					
 >*Atlanta Bicycle Campaign* 
 Volunteer coordinator for first and second annual Atlanta Streets Alive! events 

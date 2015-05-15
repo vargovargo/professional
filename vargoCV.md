@@ -88,10 +88,13 @@ Co-taught with instructor from GSU course for graduate public health students
 >>“Planning for the Forest and the Trees.” In *[Planning Atlanta: Ruins and Resurgence](https://www.planning.org/store/product/?ProductCode=BOOK_A01269).* H. Etienne and B. Faga (Eds.), Washington D.C.: American Planning Association Planners Press, 2014.
 
 >###Miscellaneous###
+>>Jonathan Patz and **Vargo, Jason**. “[Sustainable Cities Work for Climate Change.](http://www.huffingtonpost.com/jonathan-patz/sustainable-cities-work-for-climate-change_b_7174242.html)” The Huffington Post,  Apr. 29, 2015. 
+
+
 >>**Vargo, Jason** and Jonathan Patz. “[On the (Bike) Path to Prosperity: Why Banning Bikes Is Bad for Kolkata.](http://www.huffingtonpost.com/jason-vargo/kolkata-bike-ban_b_4157234.html)” The Huffington Post,  Oct. 24, 2013. 
 
 >###In Preparation###
->>**Jason Vargo**, Kait Morano, Peng Liu, Dana Habeeb, Armistead Russell, and Brian Stone. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies” Journal of Planning Education and Research (Submission May 2015).
+>>**Jason Vargo**, Brian Stone, Peng Liu, Dana Habeeb, Armistead Russell. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies” Journal of Planning Education and Research (Submission May 2015).
 
 >>Schatz, Jason, **Jason Vargo**, Chris Kucharik, and Jonathan Patz. “Urban heat island effects on heat risk in Madison, Wisconsin, USA.” Environmental Health Perspectives (Submission August 2015).
 
@@ -125,7 +128,7 @@ Co-taught with instructor from GSU course for graduate public health students
 ##PRESENTATIONS##
 >###Invited Talks###
 >>*Measuring the Urban Environment for Health*
-Sustainable Healthy Urban Environments (SHUE) workshop hosted by London School of Hygeine & Tropical Medicine and University College London - London, UK Apr. 22, 2015
+Sustainable Healthy Urban Environments ([SHUE](http://www.wellcome.ac.uk/Funding/Sustaining-health/Funded-projects/WTS058411.htm)) workshop hosted by London School of Hygeine & Tropical Medicine and University College London - London, UK Apr. 22, 2015
 
 >>*Should We Doctor Climate Science? - A Survey of Physicians in Wisconsin*
 9th Annual Nelson Institute Earth Day Conference - Madison, WI Apr. 20, 2015

@@ -64,15 +64,17 @@ Co-taught with instructor from GSU course for graduate public health students
 ##PUBLICATIONS##
 
 >###Peer-reviewed Journals###
+>>**Jason Vargo**, Brian Stone, Peng Liu, Dana Habeeb, Armistead Russell. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies.” Journal of Planning Education and Research (in review).
+
 >>**Vargo, Jason**, Benjamin Gerhardstein, Geoffrey Whitfield, and Arthur Wendel. “Motor Vehicle Traffic-Related Bicyclist Deaths—United States, 1975–2012.” *Morbidity and Mortality Weekly Report (MMWR)* (in review).
 
 >>**Vargo, Jason**, Qingyang Xiao, and Yang Liu. “The Performance of the National Weather Service Heat Warning System Against Personal Weather Stations and Land Surface Temperature Imagery.” *Advances in Meteorology* (in review).
 
 >>Habeeb, Dana, **Jason Vargo**, and Brian Stone. “Rising Heat Wave Trends in Large US Cities.” *Natural Hazards* 76:3, (2015): 1651-1665.[doi: 10.1007/s11069-014-1563-z](http://link.springer.com/article/10.1007/s11069-014-1563-z)
 
->>**Vargo, Jason**. “Metro sapiens: an urban species.” *Journal of Environmental Studies and Sciences* (2014). [doi: 10.1007/s13412-014-0195-7](http://link.springer.com/article/10.1007/s13412-014-0195-7).
+>>**Vargo, Jason**. “Metro sapiens: an urban species.” *Journal of Environmental Studies and Sciences* 4:4, (2014): 360-363. [doi: 10.1007/s13412-014-0195-7](http://link.springer.com/article/10.1007/s13412-014-0195-7).
 
->>Stone, Brian, **Jason Vargo**, Peng Liu, Dana Habeeb, Anthony DeLucia, Marcus Trail, Yongtao Hu, and Armistead Russell. “Avoided heat-related mortality through climate adaptation strategies in three US cities.” *PLoS ONE* 9(6), e100852. [doi:10.1371/journal.pone.0100852](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100852)
+>>Stone, Brian, **Jason Vargo**, Peng Liu, Dana Habeeb, Anthony DeLucia, Marcus Trail, Yongtao Hu, and Armistead Russell. “Avoided heat-related mortality through climate adaptation strategies in three US cities.” *PLoS ONE* 9:6, (2014): e100852. [doi:10.1371/journal.pone.0100852](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0100852)
 
 >>Stone, Brian, **Jason Vargo**, Peng Liu, Yongtao Hu, and Armistead Russell. “Climate change adaptation through urban heat management in Atlanta, Georgia.” *Environmental Science and Technology* 47:14, (2013): 7780-7786. [doi: 10.1021/es304352e](http://pubs.acs.org/doi/abs/10.1021/es304352e)
 
@@ -87,9 +89,9 @@ Co-taught with instructor from GSU course for graduate public health students
 >>“[Getting off the Island: Understanding Urban Heat in a Changing World.](https://www.academia.edu/attachments/34073324/download_file)” In *UGEC Viewpoints (No. 9 July) Paving the Way Forward in Urbanization and Global Environmental Change Research.* C. Griffith (Ed.), Tempe, AZ: Arizona State University Global Institute of Sustainability, 2013.
 
 >###Book Chapters###
->>"Planning Healthy and Sustainable Built Environments." In *Climate Change and Public Health.* J. Patz and B. Levy (Eds.), Oxford, UK: Oxford University Press, 2015.
+>>**Jason Vargo**. "Planning Healthy and Sustainable Built Environments." In *Climate Change and Public Health.* J. Patz and B. Levy (Eds.), Oxford, UK: Oxford University Press, 2015.
 
->>“Planning for the Forest and the Trees.” In *[Planning Atlanta: Ruins and Resurgence](https://www.planning.org/store/product/?ProductCode=BOOK_A01269).* H. Etienne and B. Faga (Eds.), Washington D.C.: American Planning Association Planners Press, 2014.
+>>**Jason Vargo**. “Planning for the Forest and the Trees.” In *[Planning Atlanta: Ruins and Resurgence](https://www.planning.org/store/product/?ProductCode=BOOK_A01269).* H. Etienne and B. Faga (Eds.), Washington D.C.: American Planning Association Planners Press, 2014.
 
 >###Miscellaneous###
 >>Jonathan Patz and **Vargo, Jason**. “[Sustainable Cities Work for Climate Change.](http://www.huffingtonpost.com/jonathan-patz/sustainable-cities-work-for-climate-change_b_7174242.html)” The Huffington Post,  Apr. 29, 2015. 
@@ -98,8 +100,6 @@ Co-taught with instructor from GSU course for graduate public health students
 >>**Vargo, Jason** and Jonathan Patz. “[On the (Bike) Path to Prosperity: Why Banning Bikes Is Bad for Kolkata.](http://www.huffingtonpost.com/jason-vargo/kolkata-bike-ban_b_4157234.html)” The Huffington Post,  Oct. 24, 2013. 
 
 >###In Preparation###
->>**Jason Vargo**, Brian Stone, Peng Liu, Dana Habeeb, Armistead Russell. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies” Journal of Planning Education and Research (Submission May 2015).
-
 >>Schatz, Jason, **Jason Vargo**, Chris Kucharik, and Jonathan Patz. “Urban heat island effects on heat risk in Madison, Wisconsin, USA.” Environmental Health Perspectives (Submission August 2015).
 
 >>Lemay, Vijay, **Jason Vargo**, Monica Harkey, Tracey Holloway, and Jonathan Patz. “Climate Change and Heat Stress Mortality in the Eastern US.” *Environmental Science and Technology* (Submission August 2015).

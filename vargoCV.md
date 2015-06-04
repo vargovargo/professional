@@ -17,7 +17,7 @@ ___I have a background in urban environmental planning and public health. My foc
 <a name="employment"></a>
 ##CURRENT EMPLOYMENT##
 >###Assistant Scientist	-- University of Wisconsin-Madison, August 2014 - present###
->*[Nelson Institute Center for Sustainability and the Global Environment](http://www.sage.wisc.edu/people/vargo/vargo.html)*
+>*[Nelson Institute Center for Sustainability and the Global Environment](http://nelson.wisc.edu/sage/people/profile.php?p=1546)*
 
 >*[Global Health Institute](http://ghi.wisc.edu/person-types/staff-associates/#6640)*
 <!--- >###Postdoctoral Fellow	University of Wisconsin-Madison, October 2012 - August 2014###

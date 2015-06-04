@@ -102,7 +102,7 @@ Co-taught with instructor from GSU course for graduate public health students
 >###In Preparation###
 >>Schatz, Jason, **Jason Vargo**, Chris Kucharik, and Jonathan Patz. “Urban heat island effects on heat risk in Madison, Wisconsin, USA.” Environmental Health Perspectives (Submission August 2015).
 
->>Lemay, Vijay, **Jason Vargo**, Monica Harkey, Tracey Holloway, and Jonathan Patz. “Climate Change and Heat Stress Mortality in the Eastern US.” *Environmental Science and Technology* (Submission August 2015).
+>>Limaye, Vijay, **Jason Vargo**, Monica Harkey, Tracey Holloway, and Jonathan Patz. “Climate Change and Heat Stress Mortality in the Eastern US.” *Environmental Science and Technology* (Submission August 2015).
 
 >>**Vargo, Jason**, Maggie Grabow, and Jonathan Patz. “Sub-County Sprawl and Public Health in Wisconsin Urban Areas .” *Health and Place* (Submission November 2015).
 

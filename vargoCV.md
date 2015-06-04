@@ -64,11 +64,11 @@ Co-taught with instructor from GSU course for graduate public health students
 ##PUBLICATIONS##
 
 >###Peer-reviewed Journals###
->>**Jason Vargo**, Brian Stone, Peng Liu, Dana Habeeb, Armistead Russell. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies.” Journal of Planning Education and Research (in review).
+>>**Vargo, Jason**, Brian Stone, Peng Liu, Dana Habeeb, Armistead Russell. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies.” Journal of Planning Education and Research (in review).
 
 >>**Vargo, Jason**, Benjamin Gerhardstein, Geoffrey Whitfield, and Arthur Wendel. “Motor Vehicle Traffic-Related Bicyclist Deaths—United States, 1975–2012.” *Morbidity and Mortality Weekly Report (MMWR)* (in review).
 
->>**Vargo, Jason**, Qingyang Xiao, and Yang Liu. “The Performance of the National Weather Service Heat Warning System Against Personal Weather Stations and Land Surface Temperature Imagery.” *Advances in Meteorology* (in review).
+>>**Vargo, Jason**, Qingyang Xiao, and Yang Liu. “The Performance of the National Weather Service Heat Warning System Against Personal Weather Stations and Land Surface Temperature Imagery.” *Advances in Meteorology* (accepted).
 
 >>Habeeb, Dana, **Jason Vargo**, and Brian Stone. “Rising Heat Wave Trends in Large US Cities.” *Natural Hazards* 76:3, (2015): 1651-1665.[doi: 10.1007/s11069-014-1563-z](http://link.springer.com/article/10.1007/s11069-014-1563-z)
 

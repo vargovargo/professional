@@ -93,7 +93,7 @@ There are also several environmental advantages to higher degrees of urbanism. T
 
 ----------
 
-We also see this urban advantage in energy and related pollution as well. You can see here how carbon footprints of indiviudals and households are much lower in the green cities of the Eastern US. There folks live in smaller homes which require less heating and cooling, and they drive less and have fewer cars. 
+We also see this urban advantage in energy and related pollution as well. You can see here how carbon footprints of individuals and households are much lower in the green cities of the Eastern US. There folks live in smaller homes which require less heating and cooling, and they drive less and have fewer cars. 
 
 They green islands of the cities are surrounded by intense energy use in the red suburbs. Which is not to say that no one can live in suburbs, but surely they can not be the types of place from a majority of people on the planet as they are in this country.
 
@@ -111,7 +111,7 @@ Consider an alternative with a higher degree of urbanism; increased density with
 
 ----------
 
-Additionally, urbanism helps us make th best use of money spent on crucial urban infrastructures.  Consider how quickly the space of one such infrastructure (roads) is consumed when everyone is dependent on driving their own car. The investments in roads is complemented by urban arngements that encourage walking, cycling and transit. 
+Additionally, urbanism helps us make th best use of money spent on crucial urban infrastructures.  Consider how quickly the space of one such infrastructure (roads) is consumed when everyone is dependent on driving their own car. The investments in roads is complemented by urban arangements that encourage walking, cycling and transit. 
 
 ----------
 

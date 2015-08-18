@@ -66,7 +66,7 @@ Co-taught with instructor from GSU course for graduate public health students
 >###Peer-reviewed Journals###
 >>**Vargo, Jason**, Brian Stone, Peng Liu, Dana Habeeb, Armistead Russell. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies.” Journal of Planning Education and Research (in review).
 
->>**Vargo, Jason**, Benjamin Gerhardstein, Geoffrey Whitfield, and Arthur Wendel. “Motor Vehicle Traffic-Related Bicyclist Deaths—United States, 1975–2012.” *Morbidity and Mortality Weekly Report (MMWR)* (in review).
+>>**Vargo, Jason**, Benjamin Gerhardstein, Geoffrey Whitfield, and Arthur Wendel. “Motor Vehicle Traffic-Related Bicyclist Deaths—United States, 1975–2012.” *Morbidity and Mortality Weekly Report (MMWR)* [64:31, (2015): 837-841.](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6431a1.htm).
 
 >>**Vargo, Jason**, Qingyang Xiao, and Yang Liu. “The Performance of the National Weather Service Heat Warning System Against Personal Weather Stations and Land Surface Temperature Imagery.” *Advances in Meteorology* (2015) [doi: 10.1155/2015/649614](http://dx.doi.org/10.1155/2015/649614).
 
@@ -282,6 +282,9 @@ Community Modeling and Analysis (CMAS) - Chapel Hill, NC   Oct. 2009
 Emory University - Atlanta, GA    June 2007 
 
 ##PROFESSIONAL SERVICE##
+			
+>*Civil Service*
+[Member of the Sustainable Madison Committee](http://www.cityofmadison.com/Sustainability/City/sustainCmte.cfm)			
 					
 >*Manuscript Reviewer*
 Health & Place, Environmental Science & Technology, Environmental Health Perspectives, Environmental Research Letters, African Journal of Environmental Science and Technology, International Journal of Environmental Research and Public Health, Urban Climate, Journal of Physical Activity & Health

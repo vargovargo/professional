@@ -66,8 +66,6 @@ Co-taught with instructor from GSU course for graduate public health students
 >###Peer-reviewed Journals###
 >>**Vargo, Jason**, Brian Stone, Peng Liu, Dana Habeeb, Armistead Russell. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies.” Journal of Planning Education and Research (in review).
 
->>**Vargo, Jason**, Benjamin Gerhardstein, Geoffrey Whitfield, and Arthur Wendel. “Motor Vehicle Traffic-Related Bicyclist Deaths—United States, 1975–2012.” *Morbidity and Mortality Weekly Report (MMWR)* [64:31, (2015): 837-841.](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6431a1.htm).
-
 >>**Vargo, Jason**, Qingyang Xiao, and Yang Liu. “The Performance of the National Weather Service Heat Warning System Against Personal Weather Stations and Land Surface Temperature Imagery.” *Advances in Meteorology* (2015) [doi: 10.1155/2015/649614](http://dx.doi.org/10.1155/2015/649614).
 
 >>Habeeb, Dana, **Jason Vargo**, and Brian Stone. “Rising Heat Wave Trends in Large US Cities.” *Natural Hazards* 76:3, (2015): 1651-1665.[doi: 10.1007/s11069-014-1563-z](http://link.springer.com/article/10.1007/s11069-014-1563-z)
@@ -86,16 +84,19 @@ Co-taught with instructor from GSU course for graduate public health students
 <!--- AARP article http://www.aarp.org/livable-communities/learn/transportation-mobility/info-12-2012/google-walkability-new-tool-2012.html -->
 
 >###Non-Peer Reviewed Journals###
+>>**Vargo, Jason**, Benjamin Gerhardstein, Geoffrey Whitfield, and Arthur Wendel. “Motor Vehicle Traffic-Related Bicyclist Deaths—United States, 1975–2012.” *Morbidity and Mortality Weekly Report (MMWR)* [64:31, (2015): 837-841.](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6431a1.htm).
+
 >>“[Getting off the Island: Understanding Urban Heat in a Changing World.](https://www.academia.edu/attachments/34073324/download_file)” In *UGEC Viewpoints (No. 9 July) Paving the Way Forward in Urbanization and Global Environmental Change Research.* C. Griffith (Ed.), Tempe, AZ: Arizona State University Global Institute of Sustainability, 2013.
 
 >###Book Chapters###
->>**Jason Vargo**. "Planning Healthy and Sustainable Built Environments." In *Climate Change and Public Health.* J. Patz and B. Levy (Eds.), Oxford, UK: Oxford University Press, 2015.
+>>**Jason Vargo**. "Planning Healthy and Sustainable Built Environments." In [*Climate Change and Public Health.*](https://global.oup.com/academic/product/climate-change-and-public-health-9780190202453?cc=us&lang=en&) J. Patz and B. Levy (Eds.), Oxford, UK: Oxford University Press, 2015.
 
 >>**Jason Vargo**. “Planning for the Forest and the Trees.” In *[Planning Atlanta: Ruins and Resurgence](https://www.planning.org/store/product/?ProductCode=BOOK_A01269).* H. Etienne and B. Faga (Eds.), Washington D.C.: American Planning Association Planners Press, 2014.
 
 >###Miscellaneous###
->>Jonathan Patz and **Vargo, Jason**. “[Sustainable Cities Work for Climate Change.](http://www.huffingtonpost.com/jonathan-patz/sustainable-cities-work-for-climate-change_b_7174242.html)” The Huffington Post,  Apr. 29, 2015. 
+>>**Vargo, Jason**. “[In the City - Committing to Sustainable Urbanization](In the City: Committing to Sustainable Urbanization - See more at: http://www.wisconsinacademy.org/blog/climate-energy/city-committing-sustainable-urbanization#sthash.KgYxzD3P.dpuf)” The Wisconsin Academy of Science Arts & Letters,  Aug. 18, 2015. 
 
+>>Jonathan Patz and **Vargo, Jason**. “[Sustainable Cities Work for Climate Change.](http://www.huffingtonpost.com/jonathan-patz/sustainable-cities-work-for-climate-change_b_7174242.html)” The Huffington Post,  Apr. 29, 2015. 
 
 >>**Vargo, Jason** and Jonathan Patz. “[On the (Bike) Path to Prosperity: Why Banning Bikes Is Bad for Kolkata.](http://www.huffingtonpost.com/jason-vargo/kolkata-bike-ban_b_4157234.html)” The Huffington Post,  Oct. 24, 2013. 
 
@@ -104,7 +105,7 @@ Co-taught with instructor from GSU course for graduate public health students
 
 >>Limaye, Vijay, **Jason Vargo**, Monica Harkey, Tracey Holloway, and Jonathan Patz. “Climate Change and Heat Stress Mortality in the Eastern US.” *Environmental Science and Technology* (Submission August 2015).
 
->>**Vargo, Jason**, Maggie Grabow, and Jonathan Patz. “Sub-County Sprawl and Public Health in Wisconsin Urban Areas .” *Health and Place* (Submission November 2015).
+>>**Vargo, Jason**, Maggie Grabow, Christopher Spahr, Kriten Malecki, and Jonathan Patz. “Sub-County Sprawl and Public Health in Wisconsin Urban Areas .” *Health and Place* (Submission November 2015).
 
 >>**Vargo, Jason**, Jason Schatz, Chris Kucharik, and Jonathan Patz. “Influence of Temperature of Crime within Urban Areas.“ (Submission December 2015).
 
@@ -120,6 +121,10 @@ Co-taught with instructor from GSU course for graduate public health students
 >>Barbosa-Cesnik, Cibele, Rand S. Farjo, May Patel, Janet Gilsdorf, Sandra I. McCoy, Melinda M. Pettigrew, Carl Marrs, and Betsy Foxman. "Predictors for Haemophilus influenzae colonization, antibiotic resistance and for sharing an identical isolate among children attending 16 licensed day-care centers in Michigan." *The Pediatric Infectious Disease Journal* 25, no. 3 (2006): 219-223. [doi: 10.1097/01.inf.0000202130.78540.28](http://journals.lww.com/pidj/Abstract/2006/03000/Predictors_for_Haemophilus_influenzae.9.aspx)
 
 >###Press Coverage###
+>> John Tozzi. "[Cycling Deaths Among Children Have Plummeted: That Doesn't Mean Roads are Safer](http://www.bloomberg.com/news/articles/2015-08-13/cycling-deaths-among-children-have-plummeted)" Bloomberg Business News, Aug. 13, 2015.
+
+>> HealthDay News. "[U.S. Bike Deaths Fall for Kids, But Rise for Adults: More men are switching to bicycles to commute, run errands, which may explain these trends](http://consumer.healthday.com/general-health-information-16/injury-health-news-413/u-s-bike-deaths-fall-for-kids-but-rise-for-adults-702308.html)" HealthDay News, Aug. 13, 2015.
+
 >> Melanie Ginsburg. "[Seeking sustainable urban habitat for tomorrow’s ‘metro sapiens’](http://nelson.wisc.edu/news/story.php?story=2059)" Nelson Institute Website, Jan. 21, 2015.
 
 >>Niina Heikkinen. "[How People Make the Summer Hotter](http://www.scientificamerican.com/article/how-people-make-summer-hotter/)" Scientific American, Nov. 25, 2014.
@@ -131,9 +136,11 @@ Co-taught with instructor from GSU course for graduate public health students
 <a name="presentations"></a>
 ##PRESENTATIONS##
 >###Invited Talks###
+>>*Urban Warming and Health*
+Improving Heat Health Resilience through Urban Infrastructure Planning and Design - Local Climate and Energy Webcast Series: Climate Change, Heat Islands, and Public Health sponsored by US Environmental Protection Agency - Aug 19, 2015
+
 >>*Environmental Sustainability: Air Quality, Transportation, Technology, and Policy Solutions*
 Next Generation Transportation for a Sustainable Future - hosted by National Center for Freight & Infrastructure Research & Education - Madison, WI May 29, 2015
-
 
 >>*Measuring the Urban Environment for Health*
 Sustainable Healthy Urban Environments ([SHUE](http://www.wellcome.ac.uk/Funding/Sustaining-health/Funded-projects/WTS058411.htm)) workshop hosted by London School of Hygeine & Tropical Medicine and University College London - London, UK Apr. 22, 2015

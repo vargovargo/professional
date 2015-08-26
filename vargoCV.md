@@ -292,8 +292,8 @@ Emory University - Atlanta, GA    June 2007
 
 ##PROFESSIONAL SERVICE##
 			
->*Civil Service*
-[Member of the Sustainable Madison Committee](http://www.cityofmadison.com/Sustainability/City/sustainCmte.cfm)			
+>*Service*
+Member of the [Sustainable Madison Committee](http://www.cityofmadison.com/Sustainability/City/sustainCmte.cfm)	
 					
 >*Manuscript Reviewer*
 Health & Place, Environmental Science & Technology, Environmental Health Perspectives, Environmental Research Letters, African Journal of Environmental Science and Technology, International Journal of Environmental Research and Public Health, Urban Climate, Journal of Physical Activity & Health

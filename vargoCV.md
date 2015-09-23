@@ -121,6 +121,8 @@ Co-taught with instructor from GSU course for graduate public health students
 >>Barbosa-Cesnik, Cibele, Rand S. Farjo, May Patel, Janet Gilsdorf, Sandra I. McCoy, Melinda M. Pettigrew, Carl Marrs, and Betsy Foxman. "Predictors for Haemophilus influenzae colonization, antibiotic resistance and for sharing an identical isolate among children attending 16 licensed day-care centers in Michigan." *The Pediatric Infectious Disease Journal* 25, no. 3 (2006): 219-223. [doi: 10.1097/01.inf.0000202130.78540.28](http://journals.lww.com/pidj/Abstract/2006/03000/Predictors_for_Haemophilus_influenzae.9.aspx)
 
 >###Press Coverage###
+>> Michaeleen Doucleff. "[As More Adults Pedal, Their Biking Injuries And Deaths Spike, Too](http://www.npr.org/sections/health-shots/2015/09/02/436662737/as-more-adults-pedal-their-biking-injuries-and-deaths-are-spiking-too)" Morning Edition on National Public Radio, Sep. 2, 2015.
+
 >> Shamane Milss. "[Adults Now Make Up Majority Of Cycling Deaths, Data Shows: Wisconsin Has Seen 8 Cycling Deaths In 2015](http://www.wpr.org/adults-now-make-majority-cycling-deaths-data-shows)" Wisconsin Public Radio, Aug. 14, 2015.
 
 >> John Tozzi. "[Cycling Deaths Among Children Have Plummeted: That Doesn't Mean Roads are Safer](http://www.bloomberg.com/news/articles/2015-08-13/cycling-deaths-among-children-have-plummeted)" Bloomberg Business News, Aug. 13, 2015.

@@ -64,6 +64,8 @@ Co-taught with instructor from GSU course for graduate public health students
 ##PUBLICATIONS##
 
 >###Peer-reviewed Journals###
+>>Limaye, Vijay, **Jason Vargo**, Monica Harkey, Tracey Holloway, and Jonathan Patz. “Climate Change and Heat Stress Mortality in the Eastern US.” *Environmental Science and Technology* (in review).
+
 >>**Vargo, Jason**, Brian Stone, Peng Liu, Dana Habeeb, Armistead Russell. “The Social and Spatial Distribution of Temperature-related Health Impacts from Urban Heat Island Reduction Planning Strategies.” Journal of Planning Education and Research (in review).
 
 >>**Vargo, Jason**, Qingyang Xiao, and Yang Liu. “The Performance of the National Weather Service Heat Warning System Against Personal Weather Stations and Land Surface Temperature Imagery.” *Advances in Meteorology* (2015) [doi: 10.1155/2015/649614](http://dx.doi.org/10.1155/2015/649614).
@@ -103,8 +105,6 @@ Co-taught with instructor from GSU course for graduate public health students
 >###In Preparation###
 >>Schatz, Jason, **Jason Vargo**, Chris Kucharik, and Jonathan Patz. “Urban heat island effects on heat risk in Madison, Wisconsin, USA.” Environmental Health Perspectives (Submission August 2015).
 
->>Limaye, Vijay, **Jason Vargo**, Monica Harkey, Tracey Holloway, and Jonathan Patz. “Climate Change and Heat Stress Mortality in the Eastern US.” *Environmental Science and Technology* (Submission August 2015).
-
 >>**Vargo, Jason**, Maggie Grabow, Christopher Spahr, Kriten Malecki, and Jonathan Patz. “Sub-County Sprawl and Public Health in Wisconsin Urban Areas .” *Health and Place* (Submission November 2015).
 
 >>**Vargo, Jason**, Jason Schatz, Chris Kucharik, and Jonathan Patz. “Influence of Temperature of Crime within Urban Areas.“ (Submission December 2015).
@@ -140,8 +140,13 @@ Co-taught with instructor from GSU course for graduate public health students
 <a name="presentations"></a>
 ##PRESENTATIONS##
 >###Invited Talks###
+>>*Our Urban Nature*
+Weston Roundtable Series - Madison, WI Oct 1, 2015
+>>>[video archive](https://mediasite.engr.wisc.edu/Mediasite/Play/398a1794893747c684087e55b70cf5a91d)
+
 >>*Urban Warming and Health*
-Improving Heat Health Resilience through Urban Infrastructure Planning and Design - Local Climate and Energy Webcast Series: Climate Change, Heat Islands, and Public Health sponsored by US Environmental Protection Agency - Aug 19, 2015
+Improving Heat Health Resilience through Urban Infrastructure Planning and Design - Local Climate and Energy Webcast Series: Climate Change, Heat Islands, and Public Health sponsored by US Environmental Protection Agency - Aug 19, 2015 
+>>>[archive](http://www2.epa.gov/heat-islands/urban-warming-and-health)
 
 >>*Environmental Sustainability: Air Quality, Transportation, Technology, and Policy Solutions*
 Next Generation Transportation for a Sustainable Future - hosted by National Center for Freight & Infrastructure Research & Education - Madison, WI May 29, 2015
@@ -154,15 +159,11 @@ Sustainable Healthy Urban Environments ([SHUE](http://www.wellcome.ac.uk/Funding
 
 >>*Urban Warming and Health*
 Urban Nature as a Health Resource hosted by The Hixon Center for Urban Ecology at the Yale School of Forestry & Environmental Studies - New Haven, CT Feb. 6, 2015
+>>>[video archive](http://new.livestream.com/YaleFES/urban-nature/videos/76183368)
 
->>>[video capture](http://new.livestream.com/YaleFES/urban-nature/videos/76183368)
-
->>*[Our Urban Nature](vargoTEDx.md)*
+>>*Our Urban Nature*
 TEDxUWMadison 2014 Designing Change - Madison, WI Nov. 1, 2014
-
->>>[YouTube capture](https://www.youtube.com/watch?v=ERjTXo5M0bY)
-
->>>[Vimeo - includes slides](https://vimeo.com/116662482)
+>>>[video archive](https://vimeo.com/116662482)
 
 >>*Understanding Place: The City*
 Bucknell University - Lewisburg, PA Sep. 24, 2014
@@ -235,10 +236,21 @@ American Public Health Association  - San Diego, CA   Oct. 27, 2008
 >>*Relationship of Perceived and Objective Measures with Physical Activity in Bogotá, Colombia*
 Active Living Research Conference - Washington, DC   Apr. 10, 2008	
 
+##AWARDS##
+2015 Badger Bioneer
+from Sustain Dane Madsion
+[information](http://sustaindane.org/events/bioneers/)
+
+
 
 ##RESEARCH EXPERIENCE##
 
 >###Sponsored Research###
+>>*Survey of Wisconsin Family Medicine Doctors’ Knowledge, Attitudes, and Practices on the Health Impacts of Severe Weather and Climate.*
+Wisconsin Division of Human Services, Department of Publice Health 5/1/15-5/1/16
+PI: Jason Vargo
+The grant opportunity funding by the CDC's Building Resilience Against Climate Effect (BRACE) Program surveyed physicians across Wisconsin on their knowledge, attitudes, and practices related to climate change and its potential health effects. 
+
 >>*Climate, Urban Land-use, and Excess mortality Study*
 Climate Change: Environmental Impact on Human Health
 Centers for Disease Control and Prevention   10/01/09-09/30/12        	
@@ -259,13 +271,19 @@ PI: Karen Glanz
 The study examined the role of the built environment on physical activity habits and overall health for employees moving to a new Smart Growth development in Atlanta.
 Role: research assistant
 
+<!---
 >###Submitted###
+--->
+
+<!---
 >>*Energy Pathways for Air, Climate, and Health (EPACH)*
 US Environmental Protection Agency Office of Research and Development, National Center for Environmental Research Science to Achieve Results (STAR) Program EPA-G2014-STAR-J1
 Air, Climate And Energy (ACE) Centers: Science Supporting Solutions
 PI: Tracey Holloway
 The study will examine the benefits to climate, air quality, and health associated with low-carbon electricity production, fuel use, engine technology, building design and transportation planning.  
 Role: research scientist
+--->
+
 
 <!---
 >>*Weather Risk and Sustainable Urban Infrastructure*
@@ -280,7 +298,7 @@ Role: research scientist
 National Institutes of Health R-01
 PI: Jonathan Patz
 This grants aims to create an adaptive model of evaluating the health impacts of transportation decisions, that is applicable for regions across the nation.
-Role: research scientist
+Role: Co-investigator
 
 ##PROFESSIONAL TRAINING##
 

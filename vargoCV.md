@@ -103,9 +103,11 @@ Co-taught with instructor from GSU course for graduate public health students
 >>**Vargo, Jason** and Jonathan Patz. “[On the (Bike) Path to Prosperity: Why Banning Bikes Is Bad for Kolkata.](http://www.huffingtonpost.com/jason-vargo/kolkata-bike-ban_b_4157234.html)” The Huffington Post,  Oct. 24, 2013. 
 
 >###In Preparation###
->>Schatz, Jason, **Jason Vargo**, Chris Kucharik, and Jonathan Patz. “Urban heat island effects on heat risk in Madison, Wisconsin, USA.” Environmental Health Perspectives (Submission August 2015).
+>>Sailor, David, Marshall Shepard, , Scott Sheridan, Brian Stone, Armistead Russel, Lawrence Kalkstein, and **Jason Vargo**. “Improving health outcomes in an urban environment with science-based policy.” PNAS (Invited Submission April 2016).
 
->>**Vargo, Jason**, Maggie Grabow, Christopher Spahr, Kriten Malecki, and Jonathan Patz. “Sub-County Sprawl and Public Health in Wisconsin Urban Areas .” *Health and Place* (Submission November 2015).
+>>Schatz, Jason, **Jason Vargo**, Chris Kucharik, and Jonathan Patz. “Urban heat island effects on heat risk in Madison, Wisconsin, USA.” Environmental Health Perspectives (Submission March 2016).
+
+>>**Vargo, Jason**, Maggie Grabow, Christopher Spahr, Kriten Malecki, and Jonathan Patz. “Sub-County Sprawl and Public Health in Wisconsin Urban Areas .” *Health and Place* (Submission January 2016).
 
 >>**Vargo, Jason**, Jason Schatz, Chris Kucharik, and Jonathan Patz. “Influence of Temperature of Crime within Urban Areas.“ (Submission December 2015).
 

@@ -322,3 +322,11 @@ Health & Place, Environmental Science & Technology, Environmental Health Perspec
 					
 >*Atlanta Bicycle Campaign* 
 Volunteer coordinator for first and second annual Atlanta Streets Alive! events 
+
+Michigan Student Assembly  11/00-3/01  Ann Arbor, MI
+Student Representative
+Selected to represent over 5000 students as a College
+of Engineering Representative on the student governing
+body of The University of Michigan Served on
+committees including Women�s Affairs, Student�s
+Rights, Communications and  North Campus Affairs  
